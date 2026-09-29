@@ -15,6 +15,29 @@ Currently exploring how AI systems can move from
 - **Software Engineering** — building reliable APIs, tools, and developer-focused applications
 - **AI Engineering** — exploring how models become useful, maintainable products
 
+
+
+## Tech Stack
+
+**Languages**
+`Python` `Java` `C` `SQL`
+
+**AI / ML**
+`Machine Learning` `Scikit-learn` `TensorFlow`
+
+**LLM / AI Engineering**
+`LLMs` `RAG` `LangChain` `ChromaDB`
+
+**Backend / Data**
+`FastAPI` `Streamlit` `PostgreSQL` `Pandas` `NumPy`
+
+**Tools**
+`Git` `GitHub` `VS Code` `Ollama`
+
+
+
+  
+
 [Portfolio](https://riddhi-s-vision.vercel.app) •
 [LinkedIn](https://www.linkedin.com/in/riddhiman-adak-5b6336307?utm_source=share_via&utm_content=profile&utm_medium=member_android) •
 [Email](mailto:riddhimanadak117@gmail.com)
