@@ -36,6 +36,34 @@ Currently exploring how AI systems can move from
 
 
 
+
+## Featured Projects
+
+### 🔬 ResearchAI
+AI-powered research assistant built around Retrieval-Augmented Generation (RAG).
+
+**Focus:** RAG • LLMs • Document Retrieval • AI Applications
+
+---
+
+### 🔥 FireDetectionModel
+Machine learning project focused on detecting fire-related visual patterns.
+
+**Focus:** Machine Learning • Computer Vision • Model Development
+
+---
+
+### 🧠 RIDDHI-S-VISION
+My personal portfolio and web presence.
+
+**Focus:** Web Development • UI • Deployment
+
+---
+
+
+
+
+
   
 
 [Portfolio](https://riddhi-s-vision.vercel.app) •
