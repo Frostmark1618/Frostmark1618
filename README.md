@@ -19,6 +19,10 @@ Currently exploring how AI systems can move from
 
 ## Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,sql,tensorflow,sklearn,fastapi,streamlit,postgres,git,github,vscode,ollama" />
+</p>
+
 **Languages**
 `Python` `Java` `C` `SQL`
 
