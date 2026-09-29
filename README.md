@@ -73,12 +73,7 @@ My personal portfolio and web presence.
 | 🚀 Building | Turning prototypes into reliable products |
 
 
-## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frostmark1618&show_icons=true&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frostmark1618&layout=compact&hide_border=true" height="165" />
-</p>
 
 
   
