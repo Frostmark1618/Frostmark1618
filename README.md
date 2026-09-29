@@ -58,7 +58,15 @@ My personal portfolio and web presence.
 
 **Focus:** Web Development • UI • Deployment
 
----
+## Current Focus
+
+| Area | Exploring |
+|---|---|
+| 🤖 AI Engineering | Building practical AI-powered applications |
+| 🧠 LLM Systems | RAG, retrieval, context-aware workflows |
+| ⚙️ Backend | FastAPI, APIs, databases, system design |
+| 🔍 Developer Tools | AI-assisted code and repository intelligence |
+| 🚀 Building | Turning prototypes into reliable products |
 
 
 
