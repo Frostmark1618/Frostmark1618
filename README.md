@@ -6,15 +6,17 @@ Building intelligent software with **Machine Learning, LLMs, RAG, and backend sy
 
 I enjoy turning ideas and models into **useful, reliable, and maintainable applications.**
 
-<p align="left">
-  <a href="https://riddhi-s-vision.vercel.app">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/riddhiman-adak-5b6336307/">LinkedIn</a> •
+<p align="center">
+  <a href="https://riddhi-s-vision.vercel.app">Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/riddhiman-adak-5b6336307/">LinkedIn</a>
+  &nbsp;•&nbsp;
   <a href="mailto:riddhimanadak117@gmail.com">Email</a>
 </p>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
 I'm a **B.Tech CSE (AI & ML) student** focused on building practical AI-powered software.
 
@@ -26,11 +28,11 @@ I learn primarily by building real systems — experimenting with models, design
 
 ---
 
-## What I'm Building
+## 🚀 What I'm Building
 
 | Area | Focus |
 |---|---|
-| 🤖 AI / ML | Practical machine learning applications and intelligent workflows |
+| 🤖 AI / ML | Machine learning applications and intelligent workflows |
 | 🧠 LLM Systems | RAG, retrieval, context-aware AI applications |
 | ⚙️ Backend | APIs, databases, application architecture |
 | 🔍 Developer Tools | Code intelligence and AI-assisted development |
@@ -38,67 +40,91 @@ I learn primarily by building real systems — experimenting with models, design
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
+
+### Core Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,tensorflow,fastapi,postgres,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,c" />
 </p>
 
-### Languages
-
-`Python` `Java` `C` `SQL`
+`Python` `Java` `C`
 
 ### AI / Machine Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+</p>
 
 `Machine Learning` `Scikit-learn` `TensorFlow`
 
 ### LLM / AI Engineering
 
-`LLMs` `RAG` `LangChain` `ChromaDB`
+`LLMs` `RAG` `LangChain` `ChromaDB` `HuggingFace` `Ollama`
 
 ### Backend / Data
 
-`FastAPI` `Streamlit` `PostgreSQL` `Pandas` `NumPy`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql" />
+</p>
+
+`FastAPI` `Streamlit` `PostgreSQL` `SQL` `Pandas` `NumPy`
 
 ### Tools
 
-`Git` `GitHub` `VS Code` `Ollama`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
+`Git` `GitHub` `VS Code` `Ollama` `Vercel`
 
 ---
 
-## Featured Projects
+## 🔥 Featured Projects
 
-### 🔬 [ResearchAI](../ResearchAI)
+### 🔬 ResearchAI
 
-**AI-powered research assistant built around Retrieval-Augmented Generation.**
+**Evidence-grounded research assistant built around Retrieval-Augmented Generation.**
 
-Upload research papers, retrieve relevant evidence, ask grounded questions, analyze documents, and compare multiple research papers.
+Upload research papers, retrieve relevant evidence, ask research-grounded questions, analyze individual documents, and compare multiple research papers.
 
-`RAG` `LLMs` `LangChain` `ChromaDB` `Streamlit`
+**Stack**
+
+`Python` `RAG` `LangChain` `ChromaDB` `HuggingFace` `Groq` `Streamlit`
+
+→ [View ResearchAI](https://github.com/Frostmark1618/ResearchAI)
 
 ---
 
-### 🔥 [FireDetectionModel](../FireDetectionModel)
+### 🔥 FireDetectionModel
 
 **Machine-learning based fire detection system combining computer vision and environmental monitoring.**
 
-Uses CNN-based image classification together with sensor data and real-time monitoring concepts.
+The project combines CNN-based image classification with sensor-based monitoring and application-level alerting.
 
-`Machine Learning` `CNN` `Computer Vision` `IoT` `TensorFlow` `Streamlit`
+**Stack**
+
+`Python` `CNN` `Computer Vision` `TensorFlow` `IoT` `Arduino` `Streamlit`
+
+→ [View FireDetectionModel](https://github.com/Frostmark1618/FireDetectionModel)
 
 ---
 
-### 🧠 [RIDDHI-S-VISION](../RIDDHI-S-VISION)
+### 🧠 RIDDHI-S-VISION
 
 **Personal portfolio and web presence.**
 
-Built to showcase projects, technical interests, experiments, and development work.
+A web project created to showcase my development work, technical interests, and projects.
 
-`Web Development` `UI` `Frontend` `Deployment`
+**Stack**
+
+`HTML` `CSS` `JavaScript` `Vercel`
+
+→ [View Repository](https://github.com/Frostmark1618/RIDDHI-S-VISION)
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
 I'm currently going deeper into the engineering behind AI applications.
 
@@ -122,8 +148,17 @@ Reliable Systems
 - Databases and data pipelines
 - AI-assisted developer tools
 - Software architecture and system design
+- Building production-oriented AI systems
 
+---
 
+## 🧩 Problem Solving
+
+I regularly practice **Data Structures & Algorithms** to strengthen programming fundamentals and problem-solving ability.
+
+### Daily Practice
+
+→ [LeetCode](https://github.com/Frostmark1618/LeetCode)
 
 ---
 
@@ -143,20 +178,12 @@ Reliable Systems
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Frostmark1618&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Frostmark1618&theme=github-compact&hide_border=true&area=true" width="95%"/>
 </p>
-
-
-
-## Problem Solving
-
-I regularly practice **Data Structures & Algorithms** to strengthen programming fundamentals and problem-solving ability.
-
-→ [LeetCode](../LeetCode)
 
 ---
 
-## Engineering Philosophy
+## 🧠 Engineering Philosophy
 
 > Build it. Understand it. Test it. Improve it.
 
@@ -164,15 +191,17 @@ I prefer learning through real implementation — building systems, finding what
 
 ---
 
-## Connect
+## 🔗 Connect
 
 <p align="center">
-  <a href="https://riddhi-s-vision.vercel.app">Portfolio</a>
+  <a href="https://riddhi-s-vision.vercel.app">🌐 Portfolio</a>
   &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/riddhiman-adak-5b6336307/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/riddhiman-adak-5b6336307/">💼 LinkedIn</a>
   &nbsp;•&nbsp;
-  <a href="mailto:riddhimanadak117@gmail.com">Email</a>
+  <a href="mailto:riddhimanadak117@gmail.com">✉️ Email</a>
 </p>
+
+---
 
 <p align="center">
   <sub>Building at the intersection of AI, software, and ideas.</sub>
