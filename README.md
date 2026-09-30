@@ -7,11 +7,11 @@ Building intelligent software with **Machine Learning, LLMs, RAG, and backend sy
 I enjoy turning ideas and models into **useful, reliable, and maintainable applications.**
 
 <p align="center">
-  <a href="https://riddhi-s-vision.vercel.app">Portfolio</a>
+  <a href="https://riddhi-s-vision.vercel.app">🌐 Portfolio</a>
   &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/riddhiman-adak-5b6336307/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/riddhiman-adak-5b6336307/">💼 LinkedIn</a>
   &nbsp;•&nbsp;
-  <a href="mailto:riddhimanadak117@gmail.com">Email</a>
+  <a href="mailto:riddhimanadak117@gmail.com">✉️ Email</a>
 </p>
 
 ---
@@ -42,21 +42,21 @@ I learn primarily by building real systems — experimenting with models, design
 
 ## 🧰 Tech Stack
 
-### Core Languages
+### Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c" />
 </p>
 
-`Python` `Java` `C`
+`Python` `Java` `C` `SQL`
 
 ### AI / Machine Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
-`Machine Learning` `Scikit-learn` `TensorFlow`
+`Machine Learning` `Scikit-learn` `TensorFlow` `Computer Vision`
 
 ### LLM / AI Engineering
 
@@ -122,6 +122,8 @@ A web project created to showcase my development work, technical interests, and 
 
 → [View Repository](https://github.com/Frostmark1618/RIDDHI-S-VISION)
 
+> 🚧 A redesigned portfolio is planned as the next iteration of my personal web presence.
+
 ---
 
 ## 🎯 Current Focus
@@ -148,7 +150,7 @@ Reliable Systems
 - Databases and data pipelines
 - AI-assisted developer tools
 - Software architecture and system design
-- Building production-oriented AI systems
+- Production-oriented AI systems
 
 ---
 
@@ -165,12 +167,21 @@ I regularly practice **Data Structures & Algorithms** to strengthen programming 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frostmark1618&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=Frostmark1618&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Frostmark1618&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"
+    height="180"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=Frostmark1618&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frostmark1618&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frostmark1618&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+    height="170"
+  />
 </p>
 
 ---
@@ -178,14 +189,18 @@ I regularly practice **Data Structures & Algorithms** to strengthen programming 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Frostmark1618&theme=github-compact&hide_border=true&area=true" width="95%"/>
+  <img
+    src="https://ghchart.rshah.org/409ba5/Frostmark1618"
+    alt="Riddhiman Adak's GitHub contribution graph"
+    width="95%"
+  />
 </p>
 
 ---
 
 ## 🧠 Engineering Philosophy
 
-> Build it. Understand it. Test it. Improve it.
+> **Build it. Understand it. Test it. Improve it.**
 
 I prefer learning through real implementation — building systems, finding what breaks, understanding why it breaks, and improving the design.
 
