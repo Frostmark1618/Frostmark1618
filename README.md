@@ -2,82 +2,155 @@
 
 ### AI/ML & Software Builder
 
-I build intelligent applications at the intersection of
-**Machine Learning, LLMs, RAG, and Software Engineering.**
+Building intelligent software with **Machine Learning, LLMs, RAG, and backend systems.**
 
-Currently exploring how AI systems can move from
-**models → applications → reliable production systems.**
+I enjoy turning ideas and models into **useful, reliable, and maintainable applications.**
+
+<p align="left">
+  <a href="https://riddhi-s-vision.vercel.app">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/riddhiman-adak-5b6336307/">LinkedIn</a> •
+  <a href="mailto:riddhimanadak117@gmail.com">Email</a>
+</p>
+
+---
+
+## About
+
+I'm a **B.Tech CSE (AI & ML) student** focused on building practical AI-powered software.
+
+My interests sit across:
+
+`AI/ML` `LLMs` `RAG` `Backend Engineering` `Developer Tools`
+
+I learn primarily by building real systems — experimenting with models, designing retrieval pipelines, developing APIs, debugging failures, and turning prototypes into usable applications.
+
+---
 
 ## What I'm Building
 
-- **AI/ML Systems** — practical machine learning applications and intelligent workflows
-- **RAG & LLM Applications** — retrieval, reasoning, and context-aware AI systems
-- **Software Engineering** — building reliable APIs, tools, and developer-focused applications
-- **AI Engineering** — exploring how models become useful, maintainable products
+| Area | Focus |
+|---|---|
+| 🤖 AI / ML | Practical machine learning applications and intelligent workflows |
+| 🧠 LLM Systems | RAG, retrieval, context-aware AI applications |
+| ⚙️ Backend | APIs, databases, application architecture |
+| 🔍 Developer Tools | Code intelligence and AI-assisted development |
+| 🚀 AI Engineering | Turning prototypes into reliable software |
 
-
+---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,sql,tensorflow,sklearn,fastapi,streamlit,postgres,git,github,vscode,ollama" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,tensorflow,fastapi,postgres,git,github,vscode" />
 </p>
 
-**Languages**
+### Languages
+
 `Python` `Java` `C` `SQL`
 
-**AI / ML**
+### AI / Machine Learning
+
 `Machine Learning` `Scikit-learn` `TensorFlow`
 
-**LLM / AI Engineering**
+### LLM / AI Engineering
+
 `LLMs` `RAG` `LangChain` `ChromaDB`
 
-**Backend / Data**
+### Backend / Data
+
 `FastAPI` `Streamlit` `PostgreSQL` `Pandas` `NumPy`
 
-**Tools**
+### Tools
+
 `Git` `GitHub` `VS Code` `Ollama`
 
-
-
+---
 
 ## Featured Projects
 
 ### 🔬 [ResearchAI](../ResearchAI)
-AI-powered research assistant built around Retrieval-Augmented Generation (RAG).
 
-**Focus:** RAG • LLMs • Document Retrieval • AI Applications
+**AI-powered research assistant built around Retrieval-Augmented Generation.**
+
+Upload research papers, retrieve relevant evidence, ask grounded questions, analyze documents, and compare multiple research papers.
+
+`RAG` `LLMs` `LangChain` `ChromaDB` `Streamlit`
 
 ---
 
 ### 🔥 [FireDetectionModel](../FireDetectionModel)
-Machine learning project focused on detecting fire-related visual patterns.
 
-**Focus:** Machine Learning • Computer Vision • Model Development
+**Machine-learning based fire detection system combining computer vision and environmental monitoring.**
+
+Uses CNN-based image classification together with sensor data and real-time monitoring concepts.
+
+`Machine Learning` `CNN` `Computer Vision` `IoT` `TensorFlow` `Streamlit`
 
 ---
 
 ### 🧠 [RIDDHI-S-VISION](../RIDDHI-S-VISION)
-My personal portfolio and web presence.
 
-**Focus:** Web Development • UI • Deployment
+**Personal portfolio and web presence.**
+
+Built to showcase projects, technical interests, experiments, and development work.
+
+`Web Development` `UI` `Frontend` `Deployment`
+
+---
 
 ## Current Focus
 
-| Area | Exploring |
-|---|---|
-| 🤖 AI Engineering | Building practical AI-powered applications |
-| 🧠 LLM Systems | RAG, retrieval, context-aware workflows |
-| ⚙️ Backend | FastAPI, APIs, databases, system design |
-| 🔍 Developer Tools | AI-assisted code and repository intelligence |
-| 🚀 Building | Turning prototypes into reliable products |
+I'm currently going deeper into the engineering behind AI applications.
 
+```text
+Models
+   ↓
+Retrieval
+   ↓
+LLM Applications
+   ↓
+APIs & Data
+   ↓
+Reliable Systems
+```
 
+### Exploring
 
+- RAG architecture and retrieval quality
+- LLM-powered applications
+- Backend engineering with FastAPI
+- Databases and data pipelines
+- AI-assisted developer tools
+- Software architecture and system design
 
+---
 
-  
+## Problem Solving
 
-[Portfolio](https://riddhi-s-vision.vercel.app) •
-[LinkedIn](https://www.linkedin.com/in/riddhiman-adak-5b6336307?utm_source=share_via&utm_content=profile&utm_medium=member_android) •
-[Email](mailto:riddhimanadak117@gmail.com)
+I regularly practice **Data Structures & Algorithms** to strengthen programming fundamentals and problem-solving ability.
+
+→ [LeetCode](../LeetCode)
+
+---
+
+## Engineering Philosophy
+
+> Build it. Understand it. Test it. Improve it.
+
+I prefer learning through real implementation — building systems, finding what breaks, understanding why it breaks, and improving the design.
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="https://riddhi-s-vision.vercel.app">Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/riddhiman-adak-5b6336307/">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:riddhimanadak117@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <sub>Building at the intersection of AI, software, and ideas.</sub>
+</p>
