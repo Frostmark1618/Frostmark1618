@@ -1,67 +1,74 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0F172A,55:172554,78:312E81,100:0B1120&height=260&section=header&text=RIDDHIMAN%20ADAK&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20RAG%20%E2%80%A2%20SOFTWARE%20ENGINEERING&descAlignY=65&descSize=15&descColor=67E8F9" width="100%" alt="Riddhiman Adak"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0B1120,65:172554,100:312E81&height=230&section=header&text=RIDDHIMAN%20ADAK&fontSize=50&fontColor=F8FAFC&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20RAG%20%E2%80%A2%20SOFTWARE%20ENGINEERING&descAlignY=62&descSize=14&descColor=67E8F9&animation=fadeIn" width="100%" alt="Riddhiman Adak — AI/ML and Software Engineering"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=850&color=67E8F9&center=true&vCenter=true&width=820&lines=Building+AI+systems%2C+not+just+AI+demos.;Retrieval+%E2%86%92+Reasoning+%E2%86%92+Systems+%E2%86%92+Products.;Exploring+LLMs%2C+RAG%2C+Agents+%26+ML+Engineering.;Turning+research+ideas+into+working+software." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=900&color=67E8F9&center=true&vCenter=true&width=850&lines=Building+AI+systems%2C+not+just+AI+demos.;Retrieval+%E2%86%92+Reasoning+%E2%86%92+Systems+%E2%86%92+Products.;Turning+research+ideas+into+working+software.;Exploring+LLMs%2C+RAG%2C+ML+Engineering+%26+Software+Systems." alt="Riddhiman Adak animated introduction"/>
 
 <br><br>
 
 <a href="https://riddhi-s-vision.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-0B1120?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-0B1120?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/riddhiman-adak-5b6336307/">
 <img src="https://img.shields.io/badge/LINKEDIN-0B1120?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
+&nbsp;
 <a href="https://x.com/AdakRiddhiman">
-<img src="https://img.shields.io/badge/X-0B1120?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X"/>
+<img src="https://img.shields.io/badge/X-0B1120?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
-<a href="https://www.instagram.com/vision.ridd_/">
-<img src="https://img.shields.io/badge/INSTAGRAM-0B1120?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
-</a>
+&nbsp;
 <a href="mailto:riddhimanadak117@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-0B1120?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AI%20ENGINEERING-06B6D4?style=flat-square" alt="AI Engineering"/>
-<img src="https://img.shields.io/badge/RAG-312E81?style=flat-square" alt="RAG"/>
-<img src="https://img.shields.io/badge/LLM%20SYSTEMS-155E75?style=flat-square" alt="LLM Systems"/>
+<img src="https://img.shields.io/badge/AI%20SYSTEMS-06B6D4?style=flat-square" alt="AI Systems"/>
+<img src="https://img.shields.io/badge/RAG-155E75?style=flat-square" alt="RAG"/>
+<img src="https://img.shields.io/badge/LLM-312E81?style=flat-square" alt="LLM"/>
 <img src="https://img.shields.io/badge/ML-172554?style=flat-square" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/SOFTWARE%20ENGINEERING-1E293B?style=flat-square" alt="Software Engineering"/>
 
 </div>
 
 ---
 
-## ⚡ About Me
-
 <table>
 <tr>
-<td width="70%" valign="middle">
+<td width="62%" valign="middle">
 
-I'm **Riddhiman Adak**, a B.Tech CSE student specializing in **Artificial Intelligence & Machine Learning**.
+## `01` — SYSTEM PROFILE
 
-I enjoy working where **AI research meets software engineering** — especially systems involving retrieval, reasoning, data, models and real applications.
+I'm **Riddhiman Adak**, a B.Tech CSE student specializing in **Artificial Intelligence & Machine Learning**, based in West Bengal, India.
 
-### Current interests
+I like working at the intersection of **AI and software engineering** — turning models, retrieval pipelines, data and backend systems into applications that people can actually use.
 
-`Machine Learning` · `LLMs` · `RAG` · `AI Agents` · `Backend Engineering` · `System Design`
+My current technical direction revolves around:
 
-My goal is simple:
+`AI/ML` · `LLMs` · `RAG` · `Retrieval` · `ML Engineering` · `Backend Systems` · `Software Engineering`
 
-> **Turn intelligent models into understandable, evidence-aware and usable software.**
+<br>
+
+> **The model is only one part of the system.**
+>
+> The interesting engineering happens around the model.
 
 </td>
 
-<td width="30%" align="center" valign="middle">
+<td width="38%" align="center" valign="middle">
 
 <img src="https://github.com/Frostmark1618.png?size=420" width="190" alt="Riddhiman Adak"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-06B6D4?style=for-the-badge" alt="AI ML"/>
+<img src="https://img.shields.io/badge/B.TECH%20CSE-AI%20%26%20ML-06B6D4?style=for-the-badge" alt="B.Tech CSE AI and ML"/>
+
+<br>
+
+<sub>West Bengal · India</sub>
 
 </td>
 </tr>
@@ -69,99 +76,158 @@ My goal is simple:
 
 ---
 
-## 🧠 How I Think About AI
+## `02` — HOW I APPROACH AI
 
 <div align="center">
 
 <table>
 <tr>
+<td align="center" width="20%">
 
-<td align="center" width="16%">
-<b>MODEL</b><br>
+### MODEL
+
 <sub>Learn</sub>
+
 </td>
 
 <td align="center">→</td>
 
-<td align="center" width="16%">
-<b>KNOWLEDGE</b><br>
+<td align="center" width="20%">
+
+### KNOWLEDGE
+
 <sub>Ground</sub>
+
 </td>
 
 <td align="center">→</td>
 
-<td align="center" width="16%">
-<b>RETRIEVAL</b><br>
-<sub>Find</sub>
+<td align="center" width="20%">
+
+### RETRIEVAL
+
+<sub>Find evidence</sub>
+
 </td>
 
 <td align="center">→</td>
 
-<td align="center" width="16%">
-<b>LLM</b><br>
-<sub>Reason</sub>
+<td align="center" width="20%">
+
+### REASONING
+
+<sub>Contextualize</sub>
+
 </td>
 
 <td align="center">→</td>
 
-<td align="center" width="16%">
-<b>SYSTEM</b><br>
+<td align="center" width="20%">
+
+### SYSTEM
+
 <sub>Engineer</sub>
+
 </td>
-
-<td align="center">→</td>
-
-<td align="center" width="16%">
-<b>PRODUCT</b><br>
-<sub>Deliver</sub>
-</td>
-
 </tr>
 </table>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=06B6D4" width="72%" alt="Architecture divider"/>
+`INGEST` → `RETRIEVE` → `CONTEXTUALIZE` → `REASON` → `EVALUATE` → `SHIP`
 
-<br><br>
+<br>
 
 <sub>
-The interesting part is not only the model — it is everything required to make the model useful.
+I am interested in the engineering layer that turns intelligent models into understandable, evidence-aware software.
 </sub>
 
 </div>
 
 ---
 
-## 🧬 Technology DNA
+## `03` — TECHNOLOGY DNA
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode,tensorflow,sklearn&perline=8" alt="Core technology stack"/>
+### Languages & Core Tools
+
+<img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode,tensorflow,sklearn&perline=8" alt="Python Java C Git GitHub VS Code TensorFlow scikit-learn"/>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=fastapi,streamlit,react,nextjs,tailwind,mysql,postgres,docker&perline=8" alt="Engineering stack"/>
+### Application & Engineering
+
+<img src="https://skillicons.dev/icons?i=fastapi,streamlit,react,nextjs,tailwind,mysql,postgres,docker&perline=8" alt="FastAPI Streamlit React Next.js Tailwind MySQL PostgreSQL Docker"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/CHROMADB-111827?style=flat-square" alt="ChromaDB"/>
+<img src="https://img.shields.io/badge/HUGGING%20FACE-FFD21E?style=flat-square&logo=huggingface&logoColor=111827" alt="Hugging Face"/>
 
 </div>
 
 <br>
 
-<div align="center">
+<table>
+<tr>
+<td width="25%" valign="top">
 
-| Layer | Focus |
-|:---:|---|
-| **Languages** | Python · Java · C |
-| **AI / ML** | Machine Learning · Deep Learning · NLP |
-| **LLM Systems** | RAG · Embeddings · Vector Search · Agents |
-| **Engineering** | FastAPI · Streamlit · React · Next.js · Git |
-| **Data / Infra** | SQL · ChromaDB · PostgreSQL · Docker |
+**LANGUAGES**
 
-</div>
+Python  
+Java  
+C
+
+</td>
+
+<td width="25%" valign="top">
+
+**AI / ML**
+
+Machine Learning  
+Deep Learning  
+NLP  
+TensorFlow  
+scikit-learn
+
+</td>
+
+<td width="25%" valign="top">
+
+**LLM SYSTEMS**
+
+RAG  
+Embeddings  
+Vector Search  
+LangChain  
+ChromaDB  
+Hugging Face
+
+</td>
+
+<td width="25%" valign="top">
+
+**ENGINEERING**
+
+FastAPI  
+Streamlit  
+React  
+Next.js  
+Tailwind CSS  
+SQL  
+Docker
+
+</td>
+</tr>
+</table>
+
+<sub>Technology listed here represents tools and areas I work with or actively explore — not a claim of equal mastery across the entire stack.</sub>
 
 ---
 
-# 🚀 Featured Systems
+## `04` — FLAGSHIP SYSTEMS
 
 <table>
 <tr>
@@ -172,32 +238,34 @@ The interesting part is not only the model — it is everything required to make
 
 **Evidence-grounded research assistant**
 
-A RAG-based research workflow for document ingestion, semantic retrieval, embeddings and LLM reasoning.
+A RAG-based research workflow for exploring, questioning, analyzing and comparing research documents.
 
-<br>
+**System**
+
+`PDFs` → `Chunking` → `Embeddings` → `ChromaDB` → `Retrieval` → `LLM` → `Grounded Response`
 
 **Stack**
 
 `Python` `Streamlit` `LangChain`  
-`ChromaDB` `HuggingFace` `Groq`
+`ChromaDB` `Hugging Face` `Groq`
 
 <br>
 
 <a href="https://github.com/Frostmark1618/ResearchAI">
-<img src="https://img.shields.io/badge/OPEN%20REPOSITORY-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="ResearchAI repository"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="View ResearchAI repository"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧩 LeetCode
+### 🧠 LeetCode
 
 **Algorithmic problem-solving system**
 
-A continuously growing collection of solutions organized around data structures, algorithms, topics and difficulty.
+An ongoing repository for data structures, algorithms and problem solving.
 
-<br>
+The emphasis is on developing reusable understanding through implementation, dry runs, testing and optimization rather than relying on external statistics cards.
 
 **Focus**
 
@@ -207,7 +275,7 @@ A continuously growing collection of solutions organized around data structures,
 <br>
 
 <a href="https://github.com/Frostmark1618/LeetCode">
-<img src="https://img.shields.io/badge/OPEN%20REPOSITORY-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="LeetCode repository"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-312E81?style=for-the-badge&logo=github&logoColor=white" alt="View LeetCode repository"/>
 </a>
 
 </td>
@@ -217,27 +285,27 @@ A continuously growing collection of solutions organized around data structures,
 
 ---
 
-# 🌐 Personal Engineering Space
-
-<div align="center">
+## `05` — PERSONAL ENGINEERING SPACE
 
 <table>
 <tr>
 
-<td width="68%" valign="middle">
+<td width="72%" valign="middle">
 
 ### RIDDHI-S-VISION
 
-Personal developer portfolio and web presence.
+My personal web and portfolio space for presenting projects, experiments and technical work.
 
-The portfolio is the presentation layer for projects, experiments, technical work and future engineering case studies.
+It serves as the public-facing layer around my engineering journey, with room for future project case studies and improvements.
+
+**Status:** evolving / planned for future rebuild
 
 </td>
 
-<td width="32%" align="center" valign="middle">
+<td width="28%" align="center" valign="middle">
 
 <a href="https://riddhi-s-vision.vercel.app">
-<img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Open portfolio"/>
+<img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Riddhi S Vision portfolio"/>
 </a>
 
 </td>
@@ -245,298 +313,164 @@ The portfolio is the presentation layer for projects, experiments, technical wor
 </tr>
 </table>
 
-</div>
-
 ---
 
-# 🎯 Currently Learning
-
-<div align="center">
+## `06` — CURRENTLY EXPLORING
 
 <table>
 <tr>
 
 <td width="25%" valign="top">
 
-### 🧠 AI Systems
+### 🧠 AI SYSTEMS
 
 - LLM architectures
-- Prompt engineering
 - Model evaluation
-- Local LLMs
+- Local LLM workflows
+- Prompt / context engineering
 
 </td>
 
 <td width="25%" valign="top">
 
-### 🔎 Retrieval
+### 🔎 RETRIEVAL
 
 - Advanced RAG
 - Hybrid retrieval
 - Reranking
-- Context engineering
+- Retrieval evaluation
 
 </td>
 
 <td width="25%" valign="top">
 
-### 🤖 Agents
+### ⚙️ ENGINEERING
 
-- Agent workflows
-- Tool use
-- Memory systems
-- Multi-step reasoning
-
-</td>
-
-<td width="25%" valign="top">
-
-### ⚙️ Engineering
-
-- Production APIs
-- System design
 - Backend architecture
-- Deployment
+- Production-oriented APIs
+- System design
+- Deployment workflows
+
+</td>
+
+<td width="25%" valign="top">
+
+### 🧩 PROBLEM SOLVING
+
+- Data structures
+- Algorithms
+- Complexity analysis
+- Implementation patterns
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
 ---
 
-# 🧪 AI Engineering Lab
+## `07` — ENGINEERING LOOP
 
 <div align="center">
 
 <table>
 <tr>
 
-<td align="center" width="16%">
+<td align="center">
 
-**DATA**
+**01**
 
-<sub>Raw information</sub>
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center" width="16%">
-
-**EMBEDDINGS**
-
-<sub>Representation</sub>
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center" width="16%">
-
-**VECTOR SPACE**
-
-<sub>Semantic index</sub>
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center" width="16%">
-
-**RETRIEVAL**
-
-<sub>Evidence</sub>
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center" width="16%">
-
-**LLM**
-
-<sub>Reasoning</sub>
-
-</td>
-
-<td align="center">→</td>
-
-<td align="center" width="16%">
-
-**PRODUCT**
-
-<sub>Application</sub>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=312E81" width="68%" alt="AI architecture divider"/>
-
-<br><br>
-
-<sub>
-
-**INGEST → RETRIEVE → CONTEXTUALIZE → REASON → EVALUATE → SHIP**
-
-</sub>
-
-</div>
-
----
-
-# 🔭 Engineering Workflow
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="12%">
-<b>01</b><br>
 Understand
+
 </td>
 
-<td align="center">→</td>
+<td>→</td>
 
-<td align="center" width="12%">
-<b>02</b><br>
+<td align="center">
+
+**02**
+
 Decompose
+
 </td>
 
-<td align="center">→</td>
+<td>→</td>
 
-<td align="center" width="12%">
-<b>03</b><br>
+<td align="center">
+
+**03**
+
 Prototype
+
 </td>
 
-<td align="center">→</td>
+<td>→</td>
 
-<td align="center" width="12%">
-<b>04</b><br>
-Reason
-</td>
+<td align="center">
 
-<td align="center">→</td>
+**04**
 
-<td align="center" width="12%">
-<b>05</b><br>
 Validate
+
 </td>
 
-<td align="center">→</td>
+<td>→</td>
 
-<td align="center" width="12%">
-<b>06</b><br>
+<td align="center">
+
+**05**
+
 Engineer
+
 </td>
 
-<td align="center">→</td>
+<td>→</td>
 
-<td align="center" width="12%">
-<b>07</b><br>
+<td align="center">
+
+**06**
+
 Test
-</td>
-
-<td align="center">→</td>
-
-<td align="center" width="12%">
-<b>08</b><br>
-Ship
-</td>
-
-</tr>
-</table>
-
-<br>
-
-> **Build small → validate early → improve systematically.**
-
-</div>
-
----
-
-# 🌌 Contribution Skyline
-
-<div align="center">
-
-<a href="https://gitcity.natrajx.in/Frostmark1618">
-
-<img
-src="https://gitcity.natrajx.in/api/svg?u=Frostmark1618&theme=aurora"
-width="1000"
-alt="Frostmark1618 live GitHub contribution skyline"
-/>
-
-</a>
-
-<br>
-
-<sub>
-A live 3D visualization of GitHub contribution activity.
-</sub>
-
-</div>
-
----
-
-# 📡 GitHub Signal
-
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%" align="center" valign="middle">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Frostmark1618&show_icons=true&hide_border=false&border_color=1E293B&border_radius=14&bg_color=0B1120&title_color=67E8F9&text_color=CBD5E1&icon_color=22D3EE&rank_icon=github&cache_seconds=21600" width="96%" alt="GitHub statistics"/>
 
 </td>
 
-<td width="50%" align="center" valign="middle">
+<td>→</td>
 
-<img src="https://streak-stats.demolab.com/?user=Frostmark1618&hide_border=false&border=1E293B&border_radius=14&background=0B1120&ring=22D3EE&fire=67E8F9&currStreakNum=67E8F9&sideNums=67E8F9&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=64748B&timezone=Asia%2FKolkata" width="96%" alt="GitHub streak statistics"/>
+<td align="center">
+
+**07**
+
+Iterate
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
 <br>
 
-<div align="center">
-
 <sub>
-GitHub activity is shown dynamically from the profile's public repository activity.
+
+**Understand the problem → build the smallest useful system → validate assumptions → improve systematically.**
+
 </sub>
 
 </div>
 
 ---
 
-# 🧩 DSA Practice
-
-<div align="center">
+## `08` — DSA / ALGORITHM LAB
 
 <table>
 <tr>
 
-<td width="65%" valign="middle">
+<td width="68%" valign="top">
 
-### 🧠 LeetCode → Algorithm Lab
+### LeetCode → Problem Solving
 
-This repository is my ongoing space for **data structures, algorithms and problem solving**.
+My DSA repository is an ongoing learning system covering algorithmic thinking, implementation and reusable patterns.
 
-The focus is not only solving individual questions, but building reusable understanding around:
+Areas I work through include:
 
 `Arrays` · `Strings` · `Linked Lists` · `Trees` · `Graphs` · `Hashing` · `Sorting` · `Searching` · `Dynamic Programming`
 
@@ -544,17 +478,17 @@ The focus is not only solving individual questions, but building reusable unders
 
 **Practice loop**
 
-`Understand → Dry Run → Implement → Test → Optimize → Document`
+`UNDERSTAND` → `DRY RUN` → `IMPLEMENT` → `TEST` → `OPTIMIZE`
 
 </td>
 
-<td width="35%" align="center" valign="middle">
+<td width="32%" align="center" valign="middle">
 
 <img src="https://img.shields.io/badge/DSA-ALGORITHM%20LAB-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="DSA Algorithm Lab"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-06B6D4?style=for-the-badge" alt="Problem solving"/>
+<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-06B6D4?style=for-the-badge" alt="Problem Solving"/>
 
 <br><br>
 
@@ -567,65 +501,75 @@ The focus is not only solving individual questions, but building reusable unders
 </tr>
 </table>
 
-</div>
-
 ---
 
-# 🛰️ Connect With Me
+## `09` — GITHUB SIGNAL
 
 <div align="center">
 
 <table>
 <tr>
 
-<td align="center">
+<td width="50%" align="center" valign="middle">
 
-<a href="https://riddhi-s-vision.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-0B1120?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=Frostmark1618&show_icons=true&hide_border=false&border_color=1E293B&border_radius=14&bg_color=0B1120&title_color=67E8F9&text_color=CBD5E1&icon_color=22D3EE&rank_icon=github&cache_seconds=21600" width="96%" alt="Frostmark1618 GitHub statistics"/>
 
 </td>
 
-<td align="center">
+<td width="50%" align="center" valign="middle">
 
-<a href="https://www.linkedin.com/in/riddhiman-adak-5b6336307/">
-<img src="https://img.shields.io/badge/LINKEDIN-0B1120?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-</a>
-
-</td>
-
-<td align="center">
-
-<a href="https://x.com/AdakRiddhiman">
-<img src="https://img.shields.io/badge/X-0B1120?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
-
-</td>
-
-<td align="center">
-
-<a href="https://www.instagram.com/vision.ridd_/">
-<img src="https://img.shields.io/badge/INSTAGRAM-0B1120?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
-</a>
-
-</td>
-
-<td align="center">
-
-<a href="mailto:riddhimanadak117@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0B1120?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
-</a>
+<img src="https://streak-stats.demolab.com/?user=Frostmark1618&hide_border=false&border=1E293B&border_radius=14&background=0B1120&ring=22D3EE&fire=67E8F9&currStreakNum=67E8F9&sideNums=67E8F9&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=64748B&timezone=Asia%2FKolkata" width="96%" alt="Frostmark1618 GitHub contribution streak"/>
 
 </td>
 
 </tr>
 </table>
 
+<br>
+
+<sub>
+Dynamic activity cards reflect publicly available GitHub activity and may depend on external services.
+</sub>
+
 </div>
 
 ---
 
-# 🧠 Engineering Philosophy
+## `10` — CONNECT
+
+<div align="center">
+
+<a href="https://riddhi-s-vision.vercel.app">
+<img src="https://img.shields.io/badge/PORTFOLIO-0B1120?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/riddhiman-adak-5b6336307/">
+<img src="https://img.shields.io/badge/LINKEDIN-0B1120?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://x.com/AdakRiddhiman">
+<img src="https://img.shields.io/badge/X-0B1120?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/vision.ridd_/">
+<img src="https://img.shields.io/badge/INSTAGRAM-0B1120?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+</a>
+&nbsp;
+<a href="mailto:riddhimanadak117@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0B1120?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+</a>
+
+<br><br>
+
+<sub>
+Open to learning, building, collaborating and turning interesting ideas into working systems.
+</sub>
+
+</div>
+
+---
+
+## `11` — ENGINEERING PHILOSOPHY
 
 <div align="center">
 
@@ -635,9 +579,11 @@ The focus is not only solving individual questions, but building reusable unders
 
 ### Build systems, not just demos.
 
-`Understand` · `Trace` · `Validate` · `Engineer` · `Ship`
-
 <br>
+
+`TRACE` · `VALIDATE` · `ENGINEER` · `TEST` · `SHIP`
+
+<br><br>
 
 <sub>
 Make systems understandable.<br>
@@ -656,10 +602,12 @@ Make software usable.
 
 <div align="center">
 
-### `BUILD → MEASURE → LEARN → ITERATE`
+<br>
+
+`BUILD → MEASURE → LEARN → ITERATE`
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,25:172554,55:312E81,78:155E75,100:020617&height=130&section=footer&animation=fadeIn" width="100%" alt="Animated footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:172554,65:312E81,100:0B1120&height=110&section=footer&animation=fadeIn" width="100%" alt="Futuristic footer"/>
 
 </div>
