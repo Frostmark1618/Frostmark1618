@@ -632,9 +632,23 @@ GitHub activity is shown dynamically from the profile's public repository activi
 
 ---
 
+---
+
 # 🧩 DSA Practice
 
 <div align="center">
+
+<a href="https://github.com/Frostmark1618/LeetCode">
+
+<img
+src="./assets/dsa-algorithm-lab.svg"
+width="100%"
+alt="DSA Algorithm Lab — data structures, algorithms and problem-solving practice"
+/>
+
+</a>
+
+<br><br>
 
 <table>
 <tr>
@@ -647,7 +661,8 @@ This repository is my ongoing space for **data structures, algorithms and proble
 
 The focus is not only solving individual questions, but building reusable understanding around:
 
-`Arrays` · `Strings` · `Linked Lists` · `Trees` · `Graphs`  
+`Arrays` · `Strings` · `Linked Lists` · `Trees` · `Graphs`
+
 `Hashing` · `Sorting` · `Searching` · `Dynamic Programming`
 
 <br>
