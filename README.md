@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:1D4ED8,52:4F46E5,76:7C3AED,100:06B6D4&height=245&section=header&text=RIDDHIMAN%20ADAK&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20RAG%20%E2%80%A2%20SOFTWARE%20ENGINEERING&descAlignY=64&descSize=16&descColor=E0F2FE"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,30:172554,60:312E81,82:155E75,100:0F172A&height=250&section=header&text=RIDDHIMAN%20ADAK&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20RAG%20%E2%80%A2%20SOFTWARE%20ENGINEERING&descAlignY=65&descSize=15&descColor=CFFAFE"
 width="100%"
 alt="Riddhiman Adak — AI ML LLM RAG Software Engineering"
 />
@@ -9,30 +9,30 @@ alt="Riddhiman Adak — AI ML LLM RAG Software Engineering"
 <br>
 
 <img
-src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=17&pause=1600&color=67E8F9&center=true&vCenter=true&width=850&height=38&lines=Building+AI-powered+software;Engineering+LLM+%26+RAG+systems;Turning+ideas+into+working+systems;Learning+%E2%86%92+Building+%E2%86%92+Shipping"
-alt="AI engineering typing animation"
+src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=17&pause=1700&color=67E8F9&center=true&vCenter=true&width=850&height=40&lines=Building+AI-powered+software;Engineering+LLM+%26+RAG+systems;Turning+ideas+into+working+systems;Learning+%E2%86%92+Building+%E2%86%92+Shipping"
+alt="AI engineering focus"
 />
 
 <br><br>
 
 <a href="https://riddhi-s-vision.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+<img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 
 <a href="https://www.linkedin.com/in/riddhiman-adak-5b6336307/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://x.com/AdakRiddhiman">
-<img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+<img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" alt="X">
 </a>
 
 <a href="https://www.instagram.com/vision.ridd_/">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
 <a href="mailto:riddhimanadak117@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 </div>
@@ -41,7 +41,7 @@ alt="AI engineering typing animation"
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="62%" valign="top">
@@ -50,13 +50,13 @@ alt="AI engineering typing animation"
 
 ### AI/ML & Software Builder
 
-I'm a **B.Tech CSE (AI & ML)** student focused on building practical AI-powered software.
+I'm a **B.Tech CSE (AI & ML)** student focused on building practical AI-powered software and strengthening the engineering foundations behind it.
 
-My work sits at the intersection of:
+My interests sit at the intersection of:
 
-**Artificial Intelligence · Software Engineering · Retrieval · Backend Systems**
+**Artificial Intelligence · LLM Systems · Retrieval · Backend Engineering**
 
-I learn by building real systems — experimenting with models, designing retrieval pipelines, developing APIs, debugging failures, and improving what I build.
+I learn by building — experimenting with models, designing retrieval pipelines, developing APIs, solving problems, debugging failures, and iterating on real systems.
 
 </td>
 
@@ -64,8 +64,8 @@ I learn by building real systems — experimenting with models, designing retrie
 
 <img
 src="https://github.com/Frostmark1618.png?size=420"
-width="220"
-alt="Riddhiman Adak GitHub profile photo"
+width="210"
+alt="Riddhiman Adak profile photo"
 />
 
 <br><br>
@@ -91,9 +91,7 @@ alt="Riddhiman Adak GitHub profile photo"
 
 </div>
 
-<br>
-
-<table>
+<table width="100%">
 <tr>
 
 <td align="center" width="16.6%">
@@ -114,8 +112,8 @@ LLMs
 
 **KNOWLEDGE**
 
-Documents  
 Data  
+Documents  
 Embeddings
 
 </td>
@@ -179,12 +177,12 @@ Maintainable
 
 <img
 src="https://skillicons.dev/icons?i=python,java,c,html,css,js,tensorflow,fastapi,postgres,git,github,vscode,vercel&perline=7&theme=dark"
-alt="Technology stack icons"
+alt="Technology stack"
 />
 
 </p>
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="25%" valign="top">
@@ -240,31 +238,17 @@ alt="Technology stack icons"
 
 ---
 
-# 🚀 Selected Systems
+# 🚀 Featured Systems
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/Frostmark1618/ResearchAI">
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=Frostmark1618&repo=ResearchAI&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=67E8F9&text_color=CBD5E1&icon_color=22D3EE"
-width="48%"
-alt="ResearchAI repository card"
-/>
-</a>
+### Building systems that connect AI concepts with usable software.
 
-<a href="https://github.com/Frostmark1618/LeetCode">
-<img
-src="https://github-readme-stats.vercel.app/api/pin/?username=Frostmark1618&repo=LeetCode&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=FBBF24&text_color=CBD5E1&icon_color=F59E0B"
-width="48%"
-alt="LeetCode repository card"
-/>
-</a>
-
-</p>
+</div>
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
@@ -273,14 +257,14 @@ alt="LeetCode repository card"
 
 <img
 src="https://img.shields.io/badge/RAG%20%2B%20LLM-06B6D4?style=flat-square&logo=python&logoColor=white"
-alt="RAG LLM"
+alt="RAG and LLM"
 />
 
 **Evidence-grounded research assistant built around Retrieval-Augmented Generation.**
 
-Research papers → document processing → retrieval → evidence → grounded answers.
+Research papers → document processing → retrieval → evidence → grounded responses.
 
-**Stack**
+**Core stack**
 
 `RAG` `LangChain` `ChromaDB`  
 `HuggingFace` `Groq` `Streamlit`
@@ -299,7 +283,7 @@ Research papers → document processing → retrieval → evidence → grounded 
 
 <img
 src="https://img.shields.io/badge/DSA-PROBLEM%20SOLVING-F59E0B?style=flat-square&logo=leetcode&logoColor=white"
-alt="DSA"
+alt="DSA problem solving"
 />
 
 **Continuous Data Structures & Algorithms practice.**
@@ -318,29 +302,12 @@ A growing collection of solutions built through regular problem solving and prog
 </td>
 
 </tr>
+</table>
 
+<br>
+
+<table width="100%">
 <tr>
-
-<td width="50%" valign="top">
-
-## 🔥 FireDetectionModel
-
-<img
-src="https://img.shields.io/badge/COMPUTER%20VISION-EF4444?style=flat-square&logo=tensorflow&logoColor=white"
-alt="Computer Vision"
-/>
-
-**Computer vision + environmental monitoring.**
-
-CNN-based image classification combined with sensor-oriented monitoring and application-level automation.
-
-`CNN` `TensorFlow` `IoT` `Arduino`
-
-<a href="https://github.com/Frostmark1618/FireDetectionModel">
-<b>Explore project →</b>
-</a>
-
-</td>
 
 <td width="50%" valign="top">
 
@@ -361,6 +328,22 @@ Personal web presence for projects, technical interests and development work.
 
 </td>
 
+<td width="50%" valign="top">
+
+## ⚡ Engineering Direction
+
+Continuing to build deeper capability across:
+
+`AI Systems` · `RAG` · `LLM Applications`
+
+`Agents` · `Backend` · `APIs` · `Databases`
+
+The goal is simple:
+
+**Understand the system. Build the system. Improve the system.**
+
+</td>
+
 </tr>
 </table>
 
@@ -374,7 +357,7 @@ Personal web presence for projects, technical interests and development work.
 
 </div>
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
@@ -384,8 +367,7 @@ Personal web presence for projects, technical interests and development work.
 - Agent architecture
 - Agent workflows
 - Tool use
-- Planning
-- Reasoning
+- Planning & reasoning
 - Multi-agent concepts
 
 </td>
@@ -394,11 +376,10 @@ Personal web presence for projects, technical interests and development work.
 
 ### 🧠 LLM Systems
 
-- RAG
+- Retrieval-Augmented Generation
 - Context engineering
 - Structured outputs
 - Tool calling
-- LLM application design
 - Grounded generation
 
 </td>
@@ -443,54 +424,48 @@ Personal web presence for projects, technical interests and development work.
 <div align="center">
 
 ```text
-                       ┌───────────────────┐
-                       │   AI APPLICATION  │
-                       └─────────┬─────────┘
-                                 │
-                                 ▼
-                       ┌───────────────────┐
-                       │       LLM         │
-                       └─────────┬─────────┘
-                                 │
-                                 ▼
-                       ┌───────────────────┐
-                       │  RAG / RETRIEVAL  │
-                       └─────────┬─────────┘
-                                 │
-                    ┌────────────┼────────────┐
-                    ▼            ▼            ▼
-               EMBEDDINGS    VECTOR DB    CONTEXT
-                    │            │            │
-                    └────────────┼────────────┘
-                                 │
-                                 ▼
-                       ┌───────────────────┐
-                       │   BACKEND / API   │
-                       └─────────┬─────────┘
-                                 │
-                                 ▼
-                       ┌───────────────────┐
-                       │      PRODUCT      │
-                       └───────────────────┘
+                         ┌────────────────────┐
+                         │   AI APPLICATION   │
+                         └──────────┬─────────┘
+                                    │
+                                    ▼
+                         ┌────────────────────┐
+                         │        LLM         │
+                         └──────────┬─────────┘
+                                    │
+                                    ▼
+                         ┌────────────────────┐
+                         │   RAG / RETRIEVAL  │
+                         └──────────┬─────────┘
+                                    │
+                       ┌────────────┼────────────┐
+                       ▼            ▼            ▼
+                  EMBEDDINGS    VECTOR DB     CONTEXT
+                       │            │            │
+                       └────────────┼────────────┘
+                                    │
+                                    ▼
+                         ┌────────────────────┐
+                         │    BACKEND / API   │
+                         └──────────┬─────────┘
+                                    │
+                                    ▼
+                         ┌────────────────────┐
+                         │      PRODUCT       │
+                         └────────────────────┘
 ```
-
-</div>
-
-<div align="center">
 
 `RAG Architecture` · `Retrieval Quality` · `LLM Applications`
 
-`Backend Engineering` · `Databases` · `AI Developer Tools`
-
-`Software Architecture` · `Local LLMs`
+`Backend Engineering` · `Databases` · `Local LLMs`
 
 </div>
 
 ---
 
-# 🧭 Engineering Direction
+# 🧭 Engineering Workflow
 
-<table align="center">
+<table width="100%">
 <tr>
 
 <td align="center" width="20%">
@@ -550,60 +525,70 @@ Make the next version better.
 
 # 📊 GitHub Signal
 
-<p align="center">
+<table width="100%">
+<tr>
+
+<td width="50%" align="center">
 
 <img
 src="https://github-readme-stats.vercel.app/api?username=Frostmark1618&show_icons=true&include_all_commits=true&count_private=false&hide_rank=true&hide_border=true&bg_color=0B1120&title_color=67E8F9&text_color=CBD5E1&icon_color=8B5CF6"
-height="175"
+width="100%"
 alt="GitHub statistics"
 />
 
-&nbsp;&nbsp;
+</td>
+
+<td width="50%" align="center">
 
 <img
 src="https://streak-stats.demolab.com/?user=Frostmark1618&theme=tokyonight&hide_border=true&background=0B1120&ring=67E8F9&fire=8B5CF6&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=94A3B8"
-height="175"
+width="100%"
 alt="GitHub contribution streak"
 />
 
-</p>
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🌆 Contribution Skyline
 
-<p align="center">
+<div align="center">
 
 <a href="https://gitcity.natrajx.in/Frostmark1618">
 
 <img
 src="https://gitcity.natrajx.in/api/svg?u=Frostmark1618&theme=aurora"
 width="100%"
-alt="Frostmark1618 GitHub contribution skyline"
+alt="Frostmark1618 live GitHub contribution skyline"
 />
 
 </a>
 
-</p>
+<br>
 
-<p align="center">
-<sub>My GitHub activity, reimagined as a living 3D skyline.</sub>
-</p>
+<sub>
+Live contribution activity — automatically generated from my GitHub history.
+</sub>
+
+</div>
 
 ---
 
 # 🧩 Problem Solving
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
 ### Data Structures × Algorithms
 
-I regularly practice DSA to strengthen programming fundamentals, algorithmic thinking and problem-solving ability.
+I regularly practice DSA to strengthen programming fundamentals, algorithmic thinking, implementation skills and problem-solving ability.
 
-**Workflow**
+**Problem-solving loop**
 
 `UNDERSTAND`
 
@@ -617,17 +602,21 @@ I regularly practice DSA to strengthen programming fundamentals, algorithmic thi
 
 ↓
 
+`TEST`
+
+↓
+
 `OPTIMIZE`
 
 </td>
 
-<td width="45%" valign="middle" align="center">
+<td width="40%" valign="middle" align="center">
 
 <a href="https://github.com/Frostmark1618/LeetCode">
 
 <img
-src="https://img.shields.io/badge/LEETCODE-DAILY%20PRACTICE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white"
-alt="LeetCode"
+src="https://img.shields.io/badge/LEETCODE-CONTINUOUS%20PRACTICE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white"
+alt="LeetCode continuous practice"
 />
 
 </a>
@@ -648,23 +637,23 @@ alt="LeetCode"
 <div align="center">
 
 <a href="https://riddhi-s-vision.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+<img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 
 <a href="https://www.linkedin.com/in/riddhiman-adak-5b6336307/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://x.com/AdakRiddhiman">
-<img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+<img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" alt="X">
 </a>
 
 <a href="https://www.instagram.com/vision.ridd_/">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
 <a href="mailto:riddhimanadak117@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 </div>
@@ -693,11 +682,11 @@ alt="LeetCode"
 <br>
 
 <a href="https://riddhi-s-vision.vercel.app">
-<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore portfolio" />
+<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore portfolio">
 </a>
 
 <a href="https://x.com/AdakRiddhiman">
-<img src="https://img.shields.io/badge/FOLLOW%20ON%20X-111827?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" />
+<img src="https://img.shields.io/badge/FOLLOW%20ON%20X-111827?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X">
 </a>
 
 <br><br>
