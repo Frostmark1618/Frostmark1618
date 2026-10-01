@@ -26,8 +26,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Frostmark1618&style=flat-square&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
-
 </div>
 
 ---
@@ -60,7 +58,7 @@ My focus is moving beyond isolated notebooks and building systems where:
 
 <div align="center">
 
-```text
+<pre align="center">
              ┌───────────────┐
              │     MODEL     │
              └───────┬───────┘
@@ -89,7 +87,7 @@ My focus is moving beyond isolated notebooks and building systems where:
              ┌───────────────┐
              │    PRODUCT    │
              └───────────────┘
-```
+</pre>
 
 </div>
 
@@ -105,7 +103,7 @@ My focus is moving beyond isolated notebooks and building systems where:
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,fastapi,flask,streamlit&perline=6" alt="AI and backend tools"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,fastapi,streamlit&perline=4" alt="AI and backend tools"/>
 
 <br><br>
 
@@ -113,11 +111,13 @@ My focus is moving beyond isolated notebooks and building systems where:
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=docker,linux,mongodb,mysql,postgres&perline=5" alt="Infrastructure and databases"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres&perline=2" alt="Database technologies"/>
 
 </div>
 
 <br>
+
+<div align="center">
 
 | Area | Current Focus |
 |---|---|
@@ -125,7 +125,9 @@ My focus is moving beyond isolated notebooks and building systems where:
 | **AI / ML** | Machine Learning · Deep Learning · NLP |
 | **LLM Systems** | RAG · Embeddings · Vector Search · Agents |
 | **Engineering** | FastAPI · Streamlit · React · Next.js · Git |
-| **Data / Infra** | SQL · ChromaDB · Docker · Linux |
+| **Data / Infra** | SQL · ChromaDB · PostgreSQL |
+
+</div>
 
 ---
 
@@ -216,7 +218,7 @@ The portfolio acts as the presentation layer for projects, experiments, technica
 
 <div align="center">
 
-```text
+<pre align="center">
 ┌─────────────────────────────────────────────────────────────────┐
 │                     AI ENGINEERING LAB                         │
 ├─────────────────────────────────────────────────────────────────┤
@@ -239,7 +241,7 @@ The portfolio acts as the presentation layer for projects, experiments, technica
 │                              APPLICATION                        │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
-```
+</pre>
 
 </div>
 
@@ -249,7 +251,7 @@ The portfolio acts as the presentation layer for projects, experiments, technica
 
 <div align="center">
 
-```text
+<pre align="center">
 01  Understand
        ↓
 02  Decompose
@@ -265,7 +267,7 @@ The portfolio acts as the presentation layer for projects, experiments, technica
 07  Test
        ↓
 08  Ship
-```
+</pre>
 
 </div>
 
@@ -312,7 +314,7 @@ Live contribution activity — automatically generated from my GitHub history.
 
 <td width="50%" align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Frostmark1618&hide_border=true&background=0B1120&ring=22D3EE&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=64748B" width="100%" alt="GitHub streak statistics"/>
+<img src="https://streak-stats.demolab.com/?user=Frostmark1618&hide_border=true&background=0B1120&ring=22D3EE&fire=67E8F9&currStreakNum=67E8F9&sideNums=67E8F9&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=64748B&timezone=Asia%2FKolkata" width="100%" alt="GitHub streak statistics"/>
 
 </td>
 
@@ -327,17 +329,25 @@ Live contribution activity — automatically generated from my GitHub history.
 
 <div align="center">
 
-<a href="https://leetcode.com/">
-
-<img src="https://leetcard.jacoblin.cool/?username=RiddhiAdak&theme=dark&font=Karma&ext=heatmap" width="720" alt="LeetCode profile"/>
-
+<a href="https://github.com/Frostmark1618/LeetCode">
+<img src="https://img.shields.io/badge/DSA%20Practice-LeetCode%20Solutions-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode solutions repository"/>
 </a>
 
 <br><br>
 
+<b>Algorithms · Data Structures · Problem Solving · Java</b>
+
+<br><br>
+
 <sub>
-Consistent problem solving is part of my engineering practice.
+An evolving collection of LeetCode solutions, organized by problem and topic.
 </sub>
+
+<br><br>
+
+<a href="https://github.com/Frostmark1618/LeetCode">
+<img src="https://img.shields.io/badge/Explore%20Solutions-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Explore LeetCode solutions"/>
+</a>
 
 </div>
 
@@ -375,7 +385,7 @@ Consistent problem solving is part of my engineering practice.
 
 <div align="center">
 
-```text
+<pre align="center">
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
 │   Don't just make models work.                              │
@@ -386,7 +396,7 @@ Consistent problem solving is part of my engineering practice.
 │   Make software usable.                                     │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
-```
+</pre>
 
 </div>
 
