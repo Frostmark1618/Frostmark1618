@@ -561,7 +561,7 @@ alt="GitHub contribution streak"
 
 <img
 src="https://gitcity.natrajx.in/api/svg?u=Frostmark1618&theme=aurora"
-width="100%"
+width="1000"
 alt="Frostmark1618 live GitHub contribution skyline"
 />
 
