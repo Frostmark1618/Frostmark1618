@@ -634,6 +634,8 @@ GitHub activity is shown dynamically from the profile's public repository activi
 
 ---
 
+---
+
 # 🧩 DSA Practice
 
 <div align="center">
@@ -641,9 +643,9 @@ GitHub activity is shown dynamically from the profile's public repository activi
 <a href="https://github.com/Frostmark1618/LeetCode">
 
 <img
-src="./assets/dsa-algorithm-lab.svg"
+src="./assets/dsa-algorithm-lab-premium.svg"
 width="100%"
-alt="DSA Algorithm Lab — data structures, algorithms and problem-solving practice"
+alt="Premium DSA Algorithm Lab dashboard showing data structures, algorithms and problem-solving workflow"
 />
 
 </a>
@@ -653,7 +655,7 @@ alt="DSA Algorithm Lab — data structures, algorithms and problem-solving pract
 <table>
 <tr>
 
-<td width="65%" valign="middle">
+<td width="68%" valign="middle">
 
 ### 🧠 LeetCode → Algorithm Lab
 
@@ -673,19 +675,17 @@ The focus is not only solving individual questions, but building reusable unders
 
 </td>
 
-<td width="35%" align="center" valign="middle">
-
-<img src="https://img.shields.io/badge/DSA-ALGORITHM%20LAB-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="DSA Algorithm Lab"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-06B6D4?style=for-the-badge" alt="Problem Solving"/>
-
-<br><br>
+<td width="32%" align="center" valign="middle">
 
 <a href="https://github.com/Frostmark1618/LeetCode">
-<img src="https://img.shields.io/badge/EXPLORE%20SOLUTIONS-312E81?style=for-the-badge&logo=github&logoColor=white" alt="Explore LeetCode solutions"/>
+<img src="https://img.shields.io/badge/EXPLORE%20ALGORITHM%20LAB-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Explore Algorithm Lab repository"/>
 </a>
+
+<br><br>
+
+<sub>
+Patterns • Complexity • Reusable Reasoning
+</sub>
 
 </td>
 
@@ -693,8 +693,6 @@ The focus is not only solving individual questions, but building reusable unders
 </table>
 
 </div>
-
----
 
 # 🛰️ Connect With Me
 
