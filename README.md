@@ -1,240 +1,131 @@
 <div align="center">
 
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,30:172554,60:312E81,82:155E75,100:0F172A&height=250&section=header&text=RIDDHIMAN%20ADAK&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20RAG%20%E2%80%A2%20SOFTWARE%20ENGINEERING&descAlignY=65&descSize=15&descColor=CFFAFE"
-width="100%"
-alt="Riddhiman Adak — AI ML LLM RAG Software Engineering"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,28:0F172A,55:172554,78:312E81,100:0F172A&height=250&section=header&text=RIDDHIMAN%20ADAK&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20RAG%20%E2%80%A2%20SOFTWARE%20ENGINEERING&descAlignY=65&descSize=15&descColor=CFFAFE" width="100%" alt="Riddhiman Adak"/>
 
 <br>
 
-<img
-src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=17&pause=1700&color=67E8F9&center=true&vCenter=true&width=850&height=40&lines=Building+AI-powered+software;Engineering+LLM+%26+RAG+systems;Turning+ideas+into+working+systems;Learning+%E2%86%92+Building+%E2%86%92+Shipping"
-alt="AI engineering focus"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3200&pause=900&color=67E8F9&center=true&vCenter=true&width=760&lines=Building+AI+Systems%2C+not+just+AI+demos.;Retrieval+%E2%86%92+Reasoning+%E2%86%92+Systems+%E2%86%92+Products.;Exploring+LLMs%2C+RAG%2C+Agents+%26+ML+Engineering.;Turning+research+ideas+into+working+software." alt="Typing introduction"/>
+
+<br>
+
+<a href="https://riddhi-s-vision.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/riddhiman-adak-5b6336307/">
+<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/AdakRiddhiman">
+<img src="https://img.shields.io/badge/X-0F172A?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+<a href="https://www.instagram.com/vision.ridd_/">
+<img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+</a>
+<a href="mailto:riddhimanadak117@gmail.com">
+<img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+</a>
 
 <br><br>
 
-<a href="https://riddhi-s-vision.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-</a>
-
-<a href="https://www.linkedin.com/in/riddhiman-adak-5b6336307/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://x.com/AdakRiddhiman">
-<img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" alt="X">
-</a>
-
-<a href="https://www.instagram.com/vision.ridd_/">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-<a href="mailto:riddhimanadak117@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
+<img src="https://komarev.com/ghpvc/?username=Frostmark1618&style=flat-square&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
-<br>
+---
+
+# ⚡ About Me
+
+<img align="right" src="https://github.com/Frostmark1618.png?size=420" width="210" alt="Riddhiman Adak"/>
+
+I'm **Riddhiman Adak**, a B.Tech CSE student specializing in **Artificial Intelligence & Machine Learning**.
+
+I like working at the intersection of:
+
+- 🧠 Machine Learning
+- 🤖 Large Language Models
+- 🔎 Retrieval-Augmented Generation
+- 🧩 AI Agents & orchestration
+- ⚙️ Backend / software engineering
+- 📊 Data-driven systems
+- 🧪 Research-oriented experimentation
+
+My focus is moving beyond isolated notebooks and building systems where:
+
+**data → retrieval → reasoning → software → usable product**
+
+<br clear="right"/>
 
 ---
 
-<table width="100%">
-<tr>
-
-<td width="62%" valign="top">
-
-# 👋 Riddhiman Adak
-
-### AI/ML & Software Builder
-
-I'm a **B.Tech CSE (AI & ML)** student focused on building practical AI-powered software and strengthening the engineering foundations behind it.
-
-My interests sit at the intersection of:
-
-**Artificial Intelligence · LLM Systems · Retrieval · Backend Engineering**
-
-I learn by building — experimenting with models, designing retrieval pipelines, developing APIs, solving problems, debugging failures, and iterating on real systems.
-
-</td>
-
-<td width="38%" align="center" valign="middle">
-
-<img
-src="https://github.com/Frostmark1618.png?size=420"
-width="210"
-alt="Riddhiman Adak profile photo"
-/>
-
-<br><br>
-
-<code>AI / ML BUILDER</code>
-
-<br><br>
-
-<code>BUILD → TEST → IMPROVE</code>
-
-</td>
-
-</tr>
-</table>
-
----
+# 🧠 HOW I THINK ABOUT AI
 
 <div align="center">
 
-## 🧠 HOW I THINK ABOUT AI
-
-### `MODEL` → `KNOWLEDGE` → `RETRIEVAL` → `LLM` → `SYSTEM` → `PRODUCT`
+```text
+             ┌───────────────┐
+             │     MODEL     │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │   KNOWLEDGE   │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │   RETRIEVAL   │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │     LLM       │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │    SYSTEM     │
+             └───────┬───────┘
+                     │
+                     ▼
+             ┌───────────────┐
+             │    PRODUCT    │
+             └───────────────┘
+```
 
 </div>
 
-<table width="100%">
-<tr>
-
-<td align="center" width="16.6%">
-
-### 🤖
-
-**MODEL**
-
-ML  
-CV  
-LLMs
-
-</td>
-
-<td align="center" width="16.6%">
-
-### 📚
-
-**KNOWLEDGE**
-
-Data  
-Documents  
-Embeddings
-
-</td>
-
-<td align="center" width="16.6%">
-
-### 🔎
-
-**RETRIEVAL**
-
-Search  
-Ranking  
-Context
-
-</td>
-
-<td align="center" width="16.6%">
-
-### 🧠
-
-**INTELLIGENCE**
-
-Reasoning  
-Generation  
-Workflows
-
-</td>
-
-<td align="center" width="16.6%">
-
-### ⚙️
-
-**SYSTEM**
-
-API  
-Backend  
-Database
-
-</td>
-
-<td align="center" width="16.6%">
-
-### 🚀
-
-**PRODUCT**
-
-Useful  
-Reliable  
-Maintainable
-
-</td>
-
-</tr>
-</table>
+> I am interested in the engineering layer that turns models into reliable, evidence-aware software.
 
 ---
 
-# 🛠️ Technology DNA
+# 🧬 Technology DNA
 
-<p align="center">
+<div align="center">
 
-<img
-src="https://skillicons.dev/icons?i=python,java,c,html,css,js,tensorflow,fastapi,postgres,git,github,vscode,vercel&perline=7&theme=dark"
-alt="Technology stack"
-/>
+<img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode&perline=6" alt="Languages and development tools"/>
 
-</p>
+<br><br>
 
-<table width="100%">
-<tr>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,fastapi,flask,streamlit&perline=6" alt="AI and backend tools"/>
 
-<td width="25%" valign="top">
+<br><br>
 
-### LANGUAGES
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js&perline=6" alt="Frontend technologies"/>
 
-`Python`  
-`Java`  
-`C`  
-`SQL`
+<br><br>
 
-</td>
+<img src="https://skillicons.dev/icons?i=docker,linux,mongodb,mysql,postgres&perline=5" alt="Infrastructure and databases"/>
 
-<td width="25%" valign="top">
+</div>
 
-### AI / ML
+<br>
 
-`TensorFlow`  
-`Scikit-learn`  
-`Machine Learning`  
-`Computer Vision`
-
-</td>
-
-<td width="25%" valign="top">
-
-### LLM / RAG
-
-`LangChain`  
-`RAG`  
-`ChromaDB`  
-`HuggingFace`  
-`Groq`  
-`Ollama`
-
-</td>
-
-<td width="25%" valign="top">
-
-### ENGINEERING
-
-`FastAPI`  
-`Streamlit`  
-`PostgreSQL`  
-`Pandas`  
-`NumPy`  
-`Git`
-
-</td>
-
-</tr>
-</table>
+| Area | Current Focus |
+|---|---|
+| **Languages** | Python · Java · C |
+| **AI / ML** | Machine Learning · Deep Learning · NLP |
+| **LLM Systems** | RAG · Embeddings · Vector Search · Agents |
+| **Engineering** | FastAPI · Streamlit · React · Next.js · Git |
+| **Data / Infra** | SQL · ChromaDB · Docker · Linux |
 
 ---
 
@@ -242,318 +133,147 @@ alt="Technology stack"
 
 <div align="center">
 
-### Building systems that connect AI concepts with usable software.
-
-</div>
-
-<br>
-
-<table width="100%">
+<table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🔬 ResearchAI
+### 🔬 ResearchAI
 
-<img
-src="https://img.shields.io/badge/RAG%20%2B%20LLM-06B6D4?style=flat-square&logo=python&logoColor=white"
-alt="RAG and LLM"
-/>
+**Evidence-grounded research assistant**
 
-**Evidence-grounded research assistant built around Retrieval-Augmented Generation.**
-
-Research papers → document processing → retrieval → evidence → grounded responses.
+RAG-based research workflow combining document ingestion, semantic retrieval, embeddings and LLM reasoning.
 
 **Core stack**
 
-`RAG` `LangChain` `ChromaDB`  
-`HuggingFace` `Groq` `Streamlit`
-
-🎥 **Demo available inside the repository.**
-
-<a href="https://github.com/Frostmark1618/ResearchAI">
-<b>Explore ResearchAI →</b>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🧠 LeetCode
-
-<img
-src="https://img.shields.io/badge/DSA-PROBLEM%20SOLVING-F59E0B?style=flat-square&logo=leetcode&logoColor=white"
-alt="DSA problem solving"
-/>
-
-**Continuous Data Structures & Algorithms practice.**
-
-A growing collection of solutions built through regular problem solving and programming practice.
-
-**Focus**
-
-`DSA` `Algorithms`  
-`Python` `Java` `C`
-
-<a href="https://github.com/Frostmark1618/LeetCode">
-<b>Explore LeetCode →</b>
-</a>
-
-</td>
-
-</tr>
-</table>
+`Python` `Streamlit` `LangChain` `ChromaDB` `HuggingFace` `Groq`
 
 <br>
 
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-## 🌐 RIDDHI-S-VISION
-
-<img
-src="https://img.shields.io/badge/PERSONAL%20WEB-8B5CF6?style=flat-square&logo=vercel&logoColor=white"
-alt="Personal web"
-/>
-
-Personal web presence for projects, technical interests and development work.
-
-`HTML` `CSS` `JavaScript` `Vercel`
-
-<a href="https://riddhi-s-vision.vercel.app">
-<b>Visit portfolio →</b>
+<a href="https://github.com/Frostmark1618/ResearchAI">
+<img src="https://img.shields.io/badge/View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="ResearchAI repository"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-## ⚡ Engineering Direction
+### 🧩 LeetCode
 
-Continuing to build deeper capability across:
+**Daily problem-solving system**
 
-`AI Systems` · `RAG` · `LLM Applications`
+A continuously growing collection of algorithmic problem solutions organized by topic and difficulty.
 
-`Agents` · `Backend` · `APIs` · `Databases`
+**Focus**
 
-The goal is simple:
+`DSA` `Algorithms` `Problem Solving` `Java`
 
-**Understand the system. Build the system. Improve the system.**
+<br>
+
+<a href="https://github.com/Frostmark1618/LeetCode">
+<img src="https://img.shields.io/badge/View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="LeetCode repository"/>
+</a>
 
 </td>
 
 </tr>
 </table>
-
----
-
-# 📚 Currently Learning
-
-<div align="center">
-
-### **Going deeper, not wider.**
 
 </div>
 
-<table width="100%">
-<tr>
+---
 
-<td width="50%" valign="top">
+# 🌐 Personal Engineering Space
 
-### 🤖 Agentic AI
+### RIDDHI-S-VISION
 
-- Agent architecture
-- Agent workflows
-- Tool use
-- Planning & reasoning
-- Multi-agent concepts
+My personal developer portfolio and web presence.
 
-</td>
+The portfolio acts as the presentation layer for projects, experiments, technical work and future engineering case studies.
 
-<td width="50%" valign="top">
-
-### 🧠 LLM Systems
-
-- Retrieval-Augmented Generation
-- Context engineering
-- Structured outputs
-- Tool calling
-- Grounded generation
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧩 AI Infrastructure
-
-- Orchestration concepts
-- State management
-- Evaluation
-- Observability
-- Retrieval pipelines
-- Local model workflows
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ Backend Depth
-
-- Advanced Python
-- FastAPI
-- API design
-- Backend architecture
-- Databases
-- System design concepts
-
-</td>
-
-</tr>
-</table>
+<a href="https://riddhi-s-vision.vercel.app">
+<img src="https://img.shields.io/badge/Open%20Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Open portfolio"/>
+</a>
 
 ---
 
-# 🧪 AI Engineering Lab
+# 🎯 Currently Learning
+
+<div align="center">
+
+| 🧠 AI Systems | 🔎 Retrieval | 🤖 Agents | ⚙️ Engineering |
+|---|---|---|---|
+| LLM architectures | Advanced RAG | Agent workflows | Production APIs |
+| Prompt engineering | Hybrid retrieval | Tool use | System design |
+| Model evaluation | Reranking | Memory systems | Backend architecture |
+| Local LLMs | Context engineering | Multi-step reasoning | Deployment |
+
+</div>
+
+---
+
+# 🧪 AI ENGINEERING LAB
 
 <div align="center">
 
 ```text
-                         ┌────────────────────┐
-                         │   AI APPLICATION   │
-                         └──────────┬─────────┘
-                                    │
-                                    ▼
-                         ┌────────────────────┐
-                         │        LLM         │
-                         └──────────┬─────────┘
-                                    │
-                                    ▼
-                         ┌────────────────────┐
-                         │   RAG / RETRIEVAL  │
-                         └──────────┬─────────┘
-                                    │
-                       ┌────────────┼────────────┐
-                       ▼            ▼            ▼
-                  EMBEDDINGS    VECTOR DB     CONTEXT
-                       │            │            │
-                       └────────────┼────────────┘
-                                    │
-                                    ▼
-                         ┌────────────────────┐
-                         │    BACKEND / API   │
-                         └──────────┬─────────┘
-                                    │
-                                    ▼
-                         ┌────────────────────┐
-                         │      PRODUCT       │
-                         └────────────────────┘
+┌─────────────────────────────────────────────────────────────────┐
+│                     AI ENGINEERING LAB                         │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│   DATA ─────► EMBEDDINGS ─────► VECTOR SPACE                   │
+│      │                              │                           │
+│      ▼                              ▼                           │
+│   CLEANING                     RETRIEVAL                        │
+│                                     │                           │
+│                                     ▼                           │
+│                              CONTEXT BUILDING                   │
+│                                     │                           │
+│                                     ▼                           │
+│                               LLM REASONING                     │
+│                                     │                           │
+│                                     ▼                           │
+│                           EVALUATION / QA                       │
+│                                     │                           │
+│                                     ▼                           │
+│                              APPLICATION                        │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
-
-`RAG Architecture` · `Retrieval Quality` · `LLM Applications`
-
-`Backend Engineering` · `Databases` · `Local LLMs`
 
 </div>
 
 ---
 
-# 🧭 Engineering Workflow
+# 🔭 Engineering Workflow
 
-<table width="100%">
-<tr>
+<div align="center">
 
-<td align="center" width="20%">
+```text
+01  Understand
+       ↓
+02  Decompose
+       ↓
+03  Prototype
+       ↓
+04  Retrieve / Reason
+       ↓
+05  Validate
+       ↓
+06  Engineer
+       ↓
+07  Test
+       ↓
+08  Ship
+```
 
-### 01
+</div>
 
-**LEARN**
-
-Understand the fundamentals.
-
-</td>
-
-<td align="center" width="20%">
-
-### 02
-
-**BUILD**
-
-Turn ideas into software.
-
-</td>
-
-<td align="center" width="20%">
-
-### 03
-
-**TEST**
-
-Find what breaks.
-
-</td>
-
-<td align="center" width="20%">
-
-### 04
-
-**DEBUG**
-
-Understand the root cause.
-
-</td>
-
-<td align="center" width="20%">
-
-### 05
-
-**EVOLVE**
-
-Make the next version better.
-
-</td>
-
-</tr>
-</table>
+> Build small → validate early → improve systematically.
 
 ---
 
-# 📊 GitHub Signal
-
-<table width="100%">
-<tr>
-
-<td width="50%" align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=Frostmark1618&show_icons=true&include_all_commits=true&count_private=false&hide_rank=true&hide_border=true&bg_color=0B1120&title_color=67E8F9&text_color=CBD5E1&icon_color=8B5CF6"
-width="100%"
-alt="GitHub statistics"
-/>
-
-</td>
-
-<td width="50%" align="center">
-
-<img
-src="https://streak-stats.demolab.com/?user=Frostmark1618&theme=tokyonight&hide_border=true&background=0B1120&ring=67E8F9&fire=8B5CF6&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=94A3B8"
-width="100%"
-alt="GitHub contribution streak"
-/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🌆 Contribution Skyline
+# 🌌 Contribution Skyline
 
 <div align="center">
 
@@ -577,83 +297,74 @@ Live contribution activity — automatically generated from my GitHub history.
 
 ---
 
-# 🧩 Problem Solving
+# 📡 GitHub Signal
 
-<table width="100%">
+<div align="center">
+
+<table>
 <tr>
 
-<td width="60%" valign="top">
+<td width="50%" align="center">
 
-### Data Structures × Algorithms
-
-I regularly practice DSA to strengthen programming fundamentals, algorithmic thinking, implementation skills and problem-solving ability.
-
-**Problem-solving loop**
-
-`UNDERSTAND`
-
-↓
-
-`FIND PATTERN`
-
-↓
-
-`IMPLEMENT`
-
-↓
-
-`TEST`
-
-↓
-
-`OPTIMIZE`
+<img src="https://github-readme-stats.vercel.app/api?username=Frostmark1618&show_icons=true&hide_border=true&bg_color=0B1120&title_color=67E8F9&text_color=CBD5E1&icon_color=22D3EE&rank_icon=github" width="100%" alt="GitHub statistics"/>
 
 </td>
 
-<td width="40%" valign="middle" align="center">
+<td width="50%" align="center">
 
-<a href="https://github.com/Frostmark1618/LeetCode">
-
-<img
-src="https://img.shields.io/badge/LEETCODE-CONTINUOUS%20PRACTICE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white"
-alt="LeetCode continuous practice"
-/>
-
-</a>
-
-<br><br>
-
-**Python · Java · C**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Frostmark1618&hide_border=true&background=0B1120&ring=22D3EE&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=64748B" width="100%" alt="GitHub streak statistics"/>
 
 </td>
 
 </tr>
 </table>
 
+</div>
+
 ---
 
-# 🌐 Connect With Me
+# 🧩 Problem Solving
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+
+<img src="https://leetcard.jacoblin.cool/?username=RiddhiAdak&theme=dark&font=Karma&ext=heatmap" width="720" alt="LeetCode profile"/>
+
+</a>
+
+<br><br>
+
+<sub>
+Consistent problem solving is part of my engineering practice.
+</sub>
+
+</div>
+
+---
+
+# 🛰️ Connect With Me
 
 <div align="center">
 
 <a href="https://riddhi-s-vision.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 <a href="https://www.linkedin.com/in/riddhiman-adak-5b6336307/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
 
 <a href="https://x.com/AdakRiddhiman">
-<img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" alt="X">
+<img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
 
 <a href="https://www.instagram.com/vision.ridd_/">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
 </a>
 
 <a href="mailto:riddhimanadak117@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
 
 </div>
@@ -664,12 +375,18 @@ alt="LeetCode continuous practice"
 
 <div align="center">
 
-> **I don't want to just use AI.  
-> I want to understand the systems behind it.**
-
-<br>
-
-`BUILD` → `UNDERSTAND` → `DEBUG` → `IMPROVE`
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   Don't just make models work.                              │
+│                                                              │
+│   Make systems understandable.                              │
+│   Make evidence traceable.                                  │
+│   Make experiments reproducible.                            │
+│   Make software usable.                                     │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -677,30 +394,10 @@ alt="LeetCode continuous practice"
 
 <div align="center">
 
-## Let's Build Something Interesting.
+### `BUILD → MEASURE → LEARN → ITERATE`
 
 <br>
 
-<a href="https://riddhi-s-vision.vercel.app">
-<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore portfolio">
-</a>
-
-<a href="https://x.com/AdakRiddhiman">
-<img src="https://img.shields.io/badge/FOLLOW%20ON%20X-111827?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X">
-</a>
-
-<br><br>
-
-<sub>
-Riddhiman Adak · AI / ML · LLM Systems · RAG · Software Engineering
-</sub>
-
-<br><br>
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:4F46E5,70:312E81,100:0F172A&height=100&section=footer"
-width="100%"
-alt="Gradient footer"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,30:172554,55:312E81,80:155E75,100:020617&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer"/>
 
 </div>
