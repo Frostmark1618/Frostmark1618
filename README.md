@@ -1,105 +1,147 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,28:0F172A,55:172554,78:312E81,100:0F172A&height=250&section=header&text=RIDDHIMAN%20ADAK&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20RAG%20%E2%80%A2%20SOFTWARE%20ENGINEERING&descAlignY=65&descSize=15&descColor=CFFAFE" width="100%" alt="Riddhiman Adak — AI ML LLM RAG Software Engineering"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0F172A,55:172554,78:312E81,100:0B1120&height=260&section=header&text=RIDDHIMAN%20ADAK&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20RAG%20%E2%80%A2%20SOFTWARE%20ENGINEERING&descAlignY=65&descSize=15&descColor=67E8F9" width="100%" alt="Riddhiman Adak"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3200&pause=900&color=67E8F9&center=true&vCenter=true&width=780&lines=Building+AI+systems%2C+not+just+AI+demos.;Retrieval+%E2%86%92+Reasoning+%E2%86%92+Systems+%E2%86%92+Products.;Exploring+LLMs%2C+RAG%2C+Agents+%26+ML+Engineering.;Turning+research+ideas+into+working+software." alt="Animated engineering introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=850&color=67E8F9&center=true&vCenter=true&width=820&lines=Building+AI+systems%2C+not+just+AI+demos.;Retrieval+%E2%86%92+Reasoning+%E2%86%92+Systems+%E2%86%92+Products.;Exploring+LLMs%2C+RAG%2C+Agents+%26+ML+Engineering.;Turning+research+ideas+into+working+software." alt="Animated introduction"/>
 
-<br>
+<br><br>
 
 <a href="https://riddhi-s-vision.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-0B1120?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/riddhiman-adak-5b6336307/">
-<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0B1120?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
 <a href="https://x.com/AdakRiddhiman">
-<img src="https://img.shields.io/badge/X-0F172A?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+<img src="https://img.shields.io/badge/X-0B1120?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X"/>
 </a>
 <a href="https://www.instagram.com/vision.ridd_/">
-<img src="https://img.shields.io/badge/Instagram-0F172A?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-0B1120?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
 </a>
 <a href="mailto:riddhimanadak117@gmail.com">
-<img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-0B1120?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
 
 <br><br>
 
+<img src="https://img.shields.io/badge/AI%20ENGINEERING-06B6D4?style=flat-square" alt="AI Engineering"/>
+<img src="https://img.shields.io/badge/RAG-312E81?style=flat-square" alt="RAG"/>
+<img src="https://img.shields.io/badge/LLM%20SYSTEMS-155E75?style=flat-square" alt="LLM Systems"/>
+<img src="https://img.shields.io/badge/ML-172554?style=flat-square" alt="Machine Learning"/>
+
 </div>
 
 ---
 
-# ⚡ About Me
+## ⚡ About Me
 
-<img align="right" src="https://github.com/Frostmark1618.png?size=420" width="210" alt="Riddhiman Adak"/>
+<table>
+<tr>
+<td width="70%" valign="middle">
 
 I'm **Riddhiman Adak**, a B.Tech CSE student specializing in **Artificial Intelligence & Machine Learning**.
 
-I work at the intersection of:
+I enjoy working where **AI research meets software engineering** — especially systems involving retrieval, reasoning, data, models and real applications.
 
-- 🧠 Machine Learning
-- 🤖 Large Language Models
-- 🔎 Retrieval-Augmented Generation
-- 🧩 AI Agents & orchestration
-- ⚙️ Backend / software engineering
-- 📊 Data-driven systems
-- 🧪 Research-oriented experimentation
+### Current interests
 
-My focus is moving beyond isolated notebooks and building systems where:
+`Machine Learning` · `LLMs` · `RAG` · `AI Agents` · `Backend Engineering` · `System Design`
 
-**data → retrieval → reasoning → software → usable product**
+My goal is simple:
 
-<br clear="right"/>
+> **Turn intelligent models into understandable, evidence-aware and usable software.**
+
+</td>
+
+<td width="30%" align="center" valign="middle">
+
+<img src="https://github.com/Frostmark1618.png?size=420" width="190" alt="Riddhiman Adak"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-06B6D4?style=for-the-badge" alt="AI ML"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🧠 HOW I THINK ABOUT AI
+## 🧠 How I Think About AI
 
 <div align="center">
 
-<pre align="center">
-             ┌───────────────┐
-             │     MODEL     │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │   KNOWLEDGE   │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │   RETRIEVAL   │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │     LLM       │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │    SYSTEM     │
-             └───────┬───────┘
-                     │
-                     ▼
-             ┌───────────────┐
-             │    PRODUCT    │
-             └───────────────┘
-</pre>
+<table>
+<tr>
+
+<td align="center" width="16%">
+<b>MODEL</b><br>
+<sub>Learn</sub>
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="16%">
+<b>KNOWLEDGE</b><br>
+<sub>Ground</sub>
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="16%">
+<b>RETRIEVAL</b><br>
+<sub>Find</sub>
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="16%">
+<b>LLM</b><br>
+<sub>Reason</sub>
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="16%">
+<b>SYSTEM</b><br>
+<sub>Engineer</sub>
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="16%">
+<b>PRODUCT</b><br>
+<sub>Deliver</sub>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=06B6D4" width="72%" alt="Architecture divider"/>
+
+<br><br>
+
+<sub>
+The interesting part is not only the model — it is everything required to make the model useful.
+</sub>
 
 </div>
 
-> I am interested in the engineering layer that turns models into reliable, evidence-aware software.
-
 ---
 
-# 🧬 Technology DNA
+## 🧬 Technology DNA
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode,tensorflow,sklearn,fastapi,streamlit,react,nextjs,tailwind,mysql,postgres&perline=8" alt="Technology stack"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode,tensorflow,sklearn&perline=8" alt="Core technology stack"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=fastapi,streamlit,react,nextjs,tailwind,mysql,postgres,docker&perline=8" alt="Engineering stack"/>
 
 </div>
 
@@ -107,21 +149,19 @@ My focus is moving beyond isolated notebooks and building systems where:
 
 <div align="center">
 
-| Area | Current Focus |
-|---|---|
+| Layer | Focus |
+|:---:|---|
 | **Languages** | Python · Java · C |
 | **AI / ML** | Machine Learning · Deep Learning · NLP |
 | **LLM Systems** | RAG · Embeddings · Vector Search · Agents |
 | **Engineering** | FastAPI · Streamlit · React · Next.js · Git |
-| **Data / Infra** | SQL · ChromaDB · PostgreSQL |
+| **Data / Infra** | SQL · ChromaDB · PostgreSQL · Docker |
 
 </div>
 
 ---
 
 # 🚀 Featured Systems
-
-<div align="center">
 
 <table>
 <tr>
@@ -132,16 +172,19 @@ My focus is moving beyond isolated notebooks and building systems where:
 
 **Evidence-grounded research assistant**
 
-RAG-based research workflow combining document ingestion, semantic retrieval, embeddings and LLM reasoning.
+A RAG-based research workflow for document ingestion, semantic retrieval, embeddings and LLM reasoning.
 
-**Core stack**
+<br>
 
-`Python` `Streamlit` `LangChain` `ChromaDB` `HuggingFace` `Groq`
+**Stack**
+
+`Python` `Streamlit` `LangChain`  
+`ChromaDB` `HuggingFace` `Groq`
 
 <br>
 
 <a href="https://github.com/Frostmark1618/ResearchAI">
-<img src="https://img.shields.io/badge/View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="ResearchAI repository"/>
+<img src="https://img.shields.io/badge/OPEN%20REPOSITORY-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="ResearchAI repository"/>
 </a>
 
 </td>
@@ -150,18 +193,51 @@ RAG-based research workflow combining document ingestion, semantic retrieval, em
 
 ### 🧩 LeetCode
 
-**Daily problem-solving system**
+**Algorithmic problem-solving system**
 
-A continuously growing collection of algorithmic problem solutions organized by topic and difficulty.
+A continuously growing collection of solutions organized around data structures, algorithms, topics and difficulty.
+
+<br>
 
 **Focus**
 
-`DSA` `Algorithms` `Problem Solving` `Java`
+`DSA` `Algorithms` `Problem Solving`  
+`Java` `Patterns` `Optimization`
 
 <br>
 
 <a href="https://github.com/Frostmark1618/LeetCode">
-<img src="https://img.shields.io/badge/View%20Repository-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="LeetCode repository"/>
+<img src="https://img.shields.io/badge/OPEN%20REPOSITORY-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="LeetCode repository"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🌐 Personal Engineering Space
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="68%" valign="middle">
+
+### RIDDHI-S-VISION
+
+Personal developer portfolio and web presence.
+
+The portfolio is the presentation layer for projects, experiments, technical work and future engineering case studies.
+
+</td>
+
+<td width="32%" align="center" valign="middle">
+
+<a href="https://riddhi-s-vision.vercel.app">
+<img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Open portfolio"/>
 </a>
 
 </td>
@@ -173,55 +249,143 @@ A continuously growing collection of algorithmic problem solutions organized by 
 
 ---
 
-# 🌐 Web Presence
-
-<div align="center">
-
-### RIDDHI-S-VISION
-
-Personal developer portfolio and presentation layer for projects, experiments and future engineering case studies.
-
-<br>
-
-<a href="https://riddhi-s-vision.vercel.app">
-<img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Open portfolio"/>
-</a>
-
-</div>
-
----
-
 # 🎯 Currently Learning
 
 <div align="center">
 
-| 🧠 AI Systems | 🔎 Retrieval | 🤖 Agents | ⚙️ Engineering |
-|---|---|---|---|
-| LLM architectures | Advanced RAG | Agent workflows | Production APIs |
-| Prompt engineering | Hybrid retrieval | Tool use | System design |
-| Model evaluation | Reranking | Memory systems | Backend architecture |
-| Local LLMs | Context engineering | Multi-step reasoning | Deployment |
+<table>
+<tr>
+
+<td width="25%" valign="top">
+
+### 🧠 AI Systems
+
+- LLM architectures
+- Prompt engineering
+- Model evaluation
+- Local LLMs
+
+</td>
+
+<td width="25%" valign="top">
+
+### 🔎 Retrieval
+
+- Advanced RAG
+- Hybrid retrieval
+- Reranking
+- Context engineering
+
+</td>
+
+<td width="25%" valign="top">
+
+### 🤖 Agents
+
+- Agent workflows
+- Tool use
+- Memory systems
+- Multi-step reasoning
+
+</td>
+
+<td width="25%" valign="top">
+
+### ⚙️ Engineering
+
+- Production APIs
+- System design
+- Backend architecture
+- Deployment
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 🧪 AI ENGINEERING LAB
+# 🧪 AI Engineering Lab
 
 <div align="center">
 
-<pre align="center">
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                         AI ENGINEERING LAB                                  │
-├──────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│  DATA → CLEANING → EMBEDDINGS → VECTOR SPACE → RETRIEVAL → CONTEXT         │
-│                                                               │              │
-│                                                               ▼              │
-│                     LLM REASONING → EVALUATION / QA → APPLICATION           │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-</pre>
+<table>
+<tr>
+
+<td align="center" width="16%">
+
+**DATA**
+
+<sub>Raw information</sub>
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="16%">
+
+**EMBEDDINGS**
+
+<sub>Representation</sub>
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="16%">
+
+**VECTOR SPACE**
+
+<sub>Semantic index</sub>
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="16%">
+
+**RETRIEVAL**
+
+<sub>Evidence</sub>
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="16%">
+
+**LLM**
+
+<sub>Reasoning</sub>
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="16%">
+
+**PRODUCT**
+
+<sub>Application</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=312E81" width="68%" alt="AI architecture divider"/>
+
+<br><br>
+
+<sub>
+
+**INGEST → RETRIEVE → CONTEXTUALIZE → REASON → EVALUATE → SHIP**
+
+</sub>
 
 </div>
 
@@ -231,16 +395,71 @@ Personal developer portfolio and presentation layer for projects, experiments an
 
 <div align="center">
 
-<pre align="center">
-01 Understand  →  02 Decompose  →  03 Prototype  →  04 Retrieve / Reason
-                                                            │
-                                                            ▼
-08 Ship        ←  07 Test      ←  06 Engineer   ←  05 Validate
-</pre>
+<table>
+<tr>
+
+<td align="center" width="12%">
+<b>01</b><br>
+Understand
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="12%">
+<b>02</b><br>
+Decompose
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="12%">
+<b>03</b><br>
+Prototype
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="12%">
+<b>04</b><br>
+Reason
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="12%">
+<b>05</b><br>
+Validate
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="12%">
+<b>06</b><br>
+Engineer
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="12%">
+<b>07</b><br>
+Test
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="12%">
+<b>08</b><br>
+Ship
+</td>
+
+</tr>
+</table>
+
+<br>
+
+> **Build small → validate early → improve systematically.**
 
 </div>
-
-> Build small → validate early → improve systematically.
 
 ---
 
@@ -261,7 +480,7 @@ alt="Frostmark1618 live GitHub contribution skyline"
 <br>
 
 <sub>
-Live contribution activity — automatically generated from my GitHub history.
+A live 3D visualization of GitHub contribution activity.
 </sub>
 
 </div>
@@ -272,37 +491,81 @@ Live contribution activity — automatically generated from my GitHub history.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Frostmark1618&show_icons=true&hide_border=false&border_color=1E293B&border_radius=12&bg_color=0B1120&title_color=67E8F9&text_color=CBD5E1&icon_color=22D3EE&rank_icon=github&cache_seconds=21600" width="48%" alt="GitHub statistics"/>
+<table>
+<tr>
 
-<img src="https://streak-stats.demolab.com/?user=Frostmark1618&hide_border=false&border=1E293B&border_radius=12&background=0B1120&ring=22D3EE&fire=67E8F9&currStreakNum=67E8F9&sideNums=67E8F9&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=64748B&timezone=Asia%2FKolkata" width="48%" alt="GitHub streak statistics"/>
+<td width="50%" align="center" valign="middle">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Frostmark1618&show_icons=true&hide_border=false&border_color=1E293B&border_radius=14&bg_color=0B1120&title_color=67E8F9&text_color=CBD5E1&icon_color=22D3EE&rank_icon=github&cache_seconds=21600" width="96%" alt="GitHub statistics"/>
+
+</td>
+
+<td width="50%" align="center" valign="middle">
+
+<img src="https://streak-stats.demolab.com/?user=Frostmark1618&hide_border=false&border=1E293B&border_radius=14&background=0B1120&ring=22D3EE&fire=67E8F9&currStreakNum=67E8F9&sideNums=67E8F9&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=64748B&timezone=Asia%2FKolkata" width="96%" alt="GitHub streak statistics"/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<sub>
+GitHub activity is shown dynamically from the profile's public repository activity.
+</sub>
 
 </div>
 
 ---
 
-# 🧩 Problem Solving
+# 🧩 DSA Practice
 
 <div align="center">
 
+<table>
+<tr>
+
+<td width="65%" valign="middle">
+
+### 🧠 LeetCode → Algorithm Lab
+
+This repository is my ongoing space for **data structures, algorithms and problem solving**.
+
+The focus is not only solving individual questions, but building reusable understanding around:
+
+`Arrays` · `Strings` · `Linked Lists` · `Trees` · `Graphs` · `Hashing` · `Sorting` · `Searching` · `Dynamic Programming`
+
+<br>
+
+**Practice loop**
+
+`Understand → Dry Run → Implement → Test → Optimize → Document`
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="https://img.shields.io/badge/DSA-ALGORITHM%20LAB-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="DSA Algorithm Lab"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-06B6D4?style=for-the-badge" alt="Problem solving"/>
+
+<br><br>
+
 <a href="https://github.com/Frostmark1618/LeetCode">
-<img src="https://img.shields.io/badge/DSA%20PRACTICE-LeetCode%20Solutions-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode solutions repository"/>
+<img src="https://img.shields.io/badge/EXPLORE%20SOLUTIONS-312E81?style=for-the-badge&logo=github&logoColor=white" alt="Explore LeetCode solutions"/>
 </a>
 
-<br><br>
+</td>
 
-<b>Algorithms · Data Structures · Problem Solving · Java</b>
-
-<br><br>
-
-<sub>
-An evolving collection of LeetCode solutions, organized by problem and topic.
-</sub>
-
-<br><br>
-
-<a href="https://github.com/Frostmark1618/LeetCode">
-<img src="https://img.shields.io/badge/EXPLORE%20SOLUTIONS-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Explore LeetCode solutions"/>
-</a>
+</tr>
+</table>
 
 </div>
 
@@ -312,25 +575,51 @@ An evolving collection of LeetCode solutions, organized by problem and topic.
 
 <div align="center">
 
+<table>
+<tr>
+
+<td align="center">
+
 <a href="https://riddhi-s-vision.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-0B1120?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
+
+</td>
+
+<td align="center">
 
 <a href="https://www.linkedin.com/in/riddhiman-adak-5b6336307/">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0B1120?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
+
+</td>
+
+<td align="center">
 
 <a href="https://x.com/AdakRiddhiman">
-<img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+<img src="https://img.shields.io/badge/X-0B1120?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
+
+</td>
+
+<td align="center">
 
 <a href="https://www.instagram.com/vision.ridd_/">
-<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-0B1120?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
 </a>
 
+</td>
+
+<td align="center">
+
 <a href="mailto:riddhimanadak117@gmail.com">
-<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-0B1120?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -340,18 +629,26 @@ An evolving collection of LeetCode solutions, organized by problem and topic.
 
 <div align="center">
 
-<pre align="center">
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   Don't just make models work.                              │
-│                                                              │
-│   Make systems understandable.                              │
-│   Make evidence traceable.                                  │
-│   Make experiments reproducible.                            │
-│   Make software usable.                                     │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-</pre>
+<table>
+<tr>
+<td align="center">
+
+### Build systems, not just demos.
+
+`Understand` · `Trace` · `Validate` · `Engineer` · `Ship`
+
+<br>
+
+<sub>
+Make systems understandable.<br>
+Make evidence traceable.<br>
+Make experiments reproducible.<br>
+Make software usable.
+</sub>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -361,8 +658,8 @@ An evolving collection of LeetCode solutions, organized by problem and topic.
 
 ### `BUILD → MEASURE → LEARN → ITERATE`
 
-<br>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,30:172554,55:312E81,80:155E75,100:020617&height=120&section=footer&animation=fadeIn" width="100%" alt="Animated footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,25:172554,55:312E81,78:155E75,100:020617&height=130&section=footer&animation=fadeIn" width="100%" alt="Animated footer"/>
 
 </div>
