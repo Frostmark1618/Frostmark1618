@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/X-0B1120?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X"/>
 </a>
 <a href="https://www.instagram.com/vision.ridd_/">
-<img src="https://img.shields.io/badge/INSTAGRAM-0B1120?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-0B1120?style=for-the-badge&logo=instagram&logoColor=E4405A" alt="Instagram"/>
 </a>
 <a href="mailto:riddhimanadak117@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-0B1120?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
@@ -31,6 +31,10 @@
 <img src="https://img.shields.io/badge/LLM%20SYSTEMS-155E75?style=flat-square" alt="LLM Systems"/>
 <img src="https://img.shields.io/badge/ML-172554?style=flat-square" alt="Machine Learning"/>
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Frostmark1618&style=flat-square&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
+
 </div>
 
 ---
@@ -39,17 +43,32 @@
 
 <table>
 <tr>
+
 <td width="68%" valign="middle">
 
 I'm **Riddhiman Adak**, a B.Tech CSE student specializing in **Artificial Intelligence & Machine Learning**.
 
 I enjoy working where **AI research meets software engineering** — especially systems involving retrieval, reasoning, data, models and real applications.
 
+I like working at the intersection of:
+
+- 🧠 Machine Learning
+- 🤖 Large Language Models
+- 🔎 Retrieval-Augmented Generation
+- 🧩 AI Agents & orchestration
+- ⚙️ Backend / software engineering
+- 📊 Data-driven systems
+- 🧪 Research-oriented experimentation
+
 ### Current interests
 
 `Machine Learning` · `LLMs` · `RAG` · `AI Agents` · `Backend Engineering` · `System Design`
 
-My engineering direction is simple:
+My focus is moving beyond isolated notebooks and building systems where:
+
+**data → retrieval → reasoning → software → usable product**
+
+My goal is simple:
 
 > **Turn intelligent models into understandable, evidence-aware and usable software.**
 
@@ -64,6 +83,7 @@ My engineering direction is simple:
 <img src="https://img.shields.io/badge/AI%20%2F%20ML-06B6D4?style=for-the-badge" alt="AI and ML"/>
 
 </td>
+
 </tr>
 </table>
 
@@ -135,14 +155,14 @@ The interesting part is not only the model — it is everything required to make
 
 ## 🧬 Technology DNA
 
-### Core Languages
+### Core Languages & Development
 
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,c&theme=dark&perline=8">
-<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,java,c&theme=light&perline=8">
-<img src="https://skillicons.dev/icons?i=python,java,c&theme=light&perline=8" alt="Python, Java and C"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,c,git,github,vscode&theme=dark&perline=6">
+<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,java,c,git,github,vscode&theme=light&perline=6">
+<img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode&theme=light&perline=6" alt="Python, Java, C, Git, GitHub and VS Code"/>
 </picture>
 
 </div>
@@ -152,21 +172,33 @@ The interesting part is not only the model — it is everything required to make
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark&perline=8">
-<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=light&perline=8">
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=light&perline=8" alt="TensorFlow and scikit-learn"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark&perline=8">
+<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=light&perline=8">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=light&perline=8" alt="TensorFlow, PyTorch and scikit-learn"/>
 </picture>
 
 </div>
 
-### Engineering
+### Backend & Application Engineering
 
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,streamlit,react,nextjs,tailwind,git,github,vscode&theme=dark&perline=8">
-<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi,streamlit,react,nextjs,tailwind,git,github,vscode&theme=light&perline=8">
-<img src="https://skillicons.dev/icons?i=fastapi,streamlit,react,nextjs,tailwind,git,github,vscode&theme=light&perline=8" alt="FastAPI, Streamlit, React, Next.js, Tailwind CSS, Git, GitHub and VS Code"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,flask,streamlit&theme=dark&perline=8">
+<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi,flask,streamlit&theme=light&perline=8">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,streamlit&theme=light&perline=8" alt="FastAPI, Flask and Streamlit"/>
+</picture>
+
+</div>
+
+### Web & Frontend
+
+<div align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js&theme=dark&perline=6">
+<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js&theme=light&perline=6">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js&theme=light&perline=6" alt="React, Next.js, Tailwind CSS, HTML, CSS and JavaScript"/>
 </picture>
 
 </div>
@@ -176,9 +208,9 @@ The interesting part is not only the model — it is everything required to make
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgres,docker&theme=dark&perline=8">
-<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql,postgres,docker&theme=light&perline=8">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,docker&theme=light&perline=8" alt="MySQL, PostgreSQL and Docker"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,linux,mongodb,mysql,postgres&theme=dark&perline=5">
+<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,linux,mongodb,mysql,postgres&theme=light&perline=5">
+<img src="https://skillicons.dev/icons?i=docker,linux,mongodb,mysql,postgres&theme=light&perline=5" alt="Docker, Linux, MongoDB, MySQL and PostgreSQL"/>
 </picture>
 
 </div>
@@ -187,20 +219,22 @@ The interesting part is not only the model — it is everything required to make
 
 <div align="center">
 
-|            Layer            | Focus                                                  |
-| :-------------------------: | ------------------------------------------------------ |
-|        **Languages**        | Python · Java · C                                      |
-|         **AI / ML**         | Machine Learning · Deep Learning · NLP                 |
-|       **LLM Systems**       | RAG · Embeddings · Vector Search · Context Engineering |
-| **Application Engineering** | FastAPI · Streamlit · React · Next.js · Tailwind CSS   |
-|  **Data / Infrastructure**  | SQL · ChromaDB · PostgreSQL · Docker                   |
-|         **Workflow**        | Git · GitHub · VS Code                                 |
+| Layer | Focus |
+|:---:|---|
+| **Languages** | Python · Java · C |
+| **AI / ML** | Machine Learning · Deep Learning · NLP |
+| **LLM Systems** | RAG · Embeddings · Vector Search · Context Engineering · Agents |
+| **Application Engineering** | FastAPI · Flask · Streamlit · React · Next.js · Tailwind CSS |
+| **Data / Infrastructure** | SQL · ChromaDB · PostgreSQL · Docker · Linux |
+| **Workflow** | Git · GitHub · VS Code |
 
 </div>
 
 ---
 
 # 🚀 Featured Systems
+
+<div align="center">
 
 <table>
 <tr>
@@ -211,16 +245,18 @@ The interesting part is not only the model — it is everything required to make
 
 **Evidence-grounded research assistant**
 
-A RAG-based research workflow for ingesting research papers, retrieving semantically relevant context and producing grounded responses.
+A RAG-based research workflow for document ingestion, semantic retrieval, embeddings and LLM reasoning.
+
+It explores research-paper ingestion, semantically relevant retrieval, document analysis, paper comparison and grounded Q&A.
 
 **What it explores**
 
-`PDF Research` · `Semantic Retrieval` · `Embeddings`
+`PDF Research` · `Semantic Retrieval` · `Embeddings`  
 `Document Analysis` · `Paper Comparison` · `Grounded Q&A`
 
 **Stack**
 
-`Python` `Streamlit` `LangChain`
+`Python` `Streamlit` `LangChain`  
 `ChromaDB` `HuggingFace` `Groq`
 
 <br>
@@ -237,11 +273,11 @@ A RAG-based research workflow for ingesting research papers, retrieving semantic
 
 **Algorithmic problem-solving system**
 
-An evolving repository for data structures, algorithms, patterns and problem solving, with an emphasis on understanding and reusable reasoning.
+A continuously growing collection of solutions organized around data structures, algorithms, patterns and difficulty, with an emphasis on understanding and reusable reasoning.
 
 **Focus**
 
-`DSA` · `Algorithms` · `Problem Solving`
+`DSA` · `Algorithms` · `Problem Solving`  
 `Patterns` · `Optimization` · `Python`
 
 <br>
@@ -254,6 +290,8 @@ An evolving repository for data structures, algorithms, patterns and problem sol
 
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -270,7 +308,7 @@ An evolving repository for data structures, algorithms, patterns and problem sol
 
 Personal developer portfolio and web presence.
 
-A presentation layer for projects, experiments, technical work and future engineering case studies.
+The portfolio is the presentation layer for projects, experiments, technical work and future engineering case studies.
 
 </td>
 
@@ -300,10 +338,10 @@ A presentation layer for projects, experiments, technical work and future engine
 
 ### 🧠 AI Systems
 
-* LLM architectures
-* Prompt engineering
-* Model evaluation
-* Local LLMs
+- LLM architectures
+- Prompt engineering
+- Model evaluation
+- Local LLMs
 
 </td>
 
@@ -311,10 +349,10 @@ A presentation layer for projects, experiments, technical work and future engine
 
 ### 🔎 Retrieval
 
-* Advanced RAG
-* Hybrid retrieval
-* Reranking
-* Context engineering
+- Advanced RAG
+- Hybrid retrieval
+- Reranking
+- Context engineering
 
 </td>
 
@@ -322,10 +360,10 @@ A presentation layer for projects, experiments, technical work and future engine
 
 ### 🤖 Agents
 
-* Agent workflows
-* Tool use
-* Memory systems
-* Multi-step reasoning
+- Agent workflows
+- Tool use
+- Memory systems
+- Multi-step reasoning
 
 </td>
 
@@ -333,10 +371,10 @@ A presentation layer for projects, experiments, technical work and future engine
 
 ### ⚙️ Engineering
 
-* Production APIs
-* System design
-* Backend architecture
-* Deployment
+- Production APIs
+- System design
+- Backend architecture
+- Deployment
 
 </td>
 
@@ -417,6 +455,29 @@ A presentation layer for projects, experiments, technical work and future engine
 
 <br>
 
+<pre>
+                         AI ENGINEERING LAB
+
+       DATA ─────► EMBEDDINGS ─────► VECTOR SPACE
+         │                              │
+         ▼                              ▼
+      CLEANING                     RETRIEVAL
+                                         │
+                                         ▼
+                                  CONTEXT BUILDING
+                                         │
+                                         ▼
+                                   LLM REASONING
+                                         │
+                                         ▼
+                                   EVALUATION / QA
+                                         │
+                                         ▼
+                                     APPLICATION
+</pre>
+
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=312E81" width="68%" alt="AI architecture divider"/>
 
 <br><br>
@@ -461,7 +522,7 @@ Prototype
 
 <td align="center" width="12%">
 <b>04</b><br>
-Reason
+Retrieve / Reason
 </td>
 
 <td align="center">→</td>
@@ -496,6 +557,14 @@ Ship
 </table>
 
 <br>
+
+<sub>
+
+`Understand → Decompose → Prototype → Retrieve / Reason → Validate → Engineer → Test → Ship`
+
+</sub>
+
+<br><br>
 
 > **Build small → validate early → improve systematically.**
 
@@ -556,7 +625,7 @@ A live 3D visualization of GitHub contribution activity.
 <div align="center">
 
 <sub>
-Dynamic activity cards are supplemental; GitHub's native contribution activity remains the primary source of contribution evidence.
+GitHub activity is shown dynamically from the profile's public repository activity. Dynamic activity cards are supplemental; GitHub's native contribution activity remains the primary source of contribution evidence.
 </sub>
 
 </div>
@@ -578,7 +647,7 @@ This repository is my ongoing space for **data structures, algorithms and proble
 
 The focus is not only solving individual questions, but building reusable understanding around:
 
-`Arrays` · `Strings` · `Linked Lists` · `Trees` · `Graphs`
+`Arrays` · `Strings` · `Linked Lists` · `Trees` · `Graphs`  
 `Hashing` · `Sorting` · `Searching` · `Dynamic Programming`
 
 <br>
@@ -616,11 +685,25 @@ The focus is not only solving individual questions, but building reusable unders
 
 <div align="center">
 
-<a href="https://riddhi-s-vision.vercel.app">Portfolio</a>
-  •   <a href="https://www.linkedin.com/in/riddhiman-adak-5b6336307/">LinkedIn</a>
-  •   <a href="https://x.com/AdakRiddhiman">X</a>
-  •   <a href="https://www.instagram.com/vision.ridd_/">Instagram</a>
-  •   <a href="mailto:riddhimanadak117@gmail.com">Email</a>
+<a href="https://riddhi-s-vision.vercel.app">
+<img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+<a href="https://www.linkedin.com/in/riddhiman-adak-5b6336307/">
+<img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+</a>
+
+<a href="https://x.com/AdakRiddhiman">
+<img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+
+<a href="https://www.instagram.com/vision.ridd_/">
+<img src="https://img.shields.io/badge/INSTAGRAM-111827?style=for-the-badge&logo=instagram&logoColor=E4405A" alt="Instagram"/>
+</a>
+
+<a href="mailto:riddhimanadak117@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+</a>
 
 <br><br>
 
@@ -638,9 +721,24 @@ Open to learning, building, collaborating and turning interesting ideas into wor
 
 <table>
 <tr>
+
 <td align="center">
 
 ### Build systems, not just demos.
+
+<pre>
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   Understand the problem.                                    │
+│   Trace the evidence.                                        │
+│   Validate the reasoning.                                    │
+│   Engineer the system.                                       │
+│   Ship something usable.                                     │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+</pre>
+
+<br>
 
 `Understand` · `Trace` · `Validate` · `Engineer` · `Ship`
 
@@ -654,6 +752,7 @@ Make software usable.
 </sub>
 
 </td>
+
 </tr>
 </table>
 
