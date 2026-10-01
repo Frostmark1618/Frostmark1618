@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,28:0F172A,55:172554,78:312E81,100:0F172A&height=250&section=header&text=RIDDHIMAN%20ADAK&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20RAG%20%E2%80%A2%20SOFTWARE%20ENGINEERING&descAlignY=65&descSize=15&descColor=CFFAFE" width="100%" alt="Riddhiman Adak"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,28:0F172A,55:172554,78:312E81,100:0F172A&height=250&section=header&text=RIDDHIMAN%20ADAK&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20RAG%20%E2%80%A2%20SOFTWARE%20ENGINEERING&descAlignY=65&descSize=15&descColor=CFFAFE" width="100%" alt="Riddhiman Adak — AI ML LLM RAG Software Engineering"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3200&pause=900&color=67E8F9&center=true&vCenter=true&width=760&lines=Building+AI+Systems%2C+not+just+AI+demos.;Retrieval+%E2%86%92+Reasoning+%E2%86%92+Systems+%E2%86%92+Products.;Exploring+LLMs%2C+RAG%2C+Agents+%26+ML+Engineering.;Turning+research+ideas+into+working+software." alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3200&pause=900&color=67E8F9&center=true&vCenter=true&width=780&lines=Building+AI+systems%2C+not+just+AI+demos.;Retrieval+%E2%86%92+Reasoning+%E2%86%92+Systems+%E2%86%92+Products.;Exploring+LLMs%2C+RAG%2C+Agents+%26+ML+Engineering.;Turning+research+ideas+into+working+software." alt="Animated engineering introduction"/>
 
 <br>
 
@@ -36,7 +36,7 @@
 
 I'm **Riddhiman Adak**, a B.Tech CSE student specializing in **Artificial Intelligence & Machine Learning**.
 
-I like working at the intersection of:
+I work at the intersection of:
 
 - 🧠 Machine Learning
 - 🤖 Large Language Models
@@ -99,19 +99,7 @@ My focus is moving beyond isolated notebooks and building systems where:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode&perline=6" alt="Languages and development tools"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,fastapi,streamlit&perline=4" alt="AI and backend tools"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js&perline=6" alt="Frontend technologies"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres&perline=2" alt="Database technologies"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,git,github,vscode,tensorflow,sklearn,fastapi,streamlit,react,nextjs,tailwind,mysql,postgres&perline=8" alt="Technology stack"/>
 
 </div>
 
@@ -185,17 +173,21 @@ A continuously growing collection of algorithmic problem solutions organized by 
 
 ---
 
-# 🌐 Personal Engineering Space
+# 🌐 Web Presence
+
+<div align="center">
 
 ### RIDDHI-S-VISION
 
-My personal developer portfolio and web presence.
+Personal developer portfolio and presentation layer for projects, experiments and future engineering case studies.
 
-The portfolio acts as the presentation layer for projects, experiments, technical work and future engineering case studies.
+<br>
 
 <a href="https://riddhi-s-vision.vercel.app">
-<img src="https://img.shields.io/badge/Open%20Portfolio-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Open portfolio"/>
+<img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Open portfolio"/>
 </a>
+
+</div>
 
 ---
 
@@ -219,28 +211,16 @@ The portfolio acts as the presentation layer for projects, experiments, technica
 <div align="center">
 
 <pre align="center">
-┌─────────────────────────────────────────────────────────────────┐
-│                     AI ENGINEERING LAB                         │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│   DATA ─────► EMBEDDINGS ─────► VECTOR SPACE                   │
-│      │                              │                           │
-│      ▼                              ▼                           │
-│   CLEANING                     RETRIEVAL                        │
-│                                     │                           │
-│                                     ▼                           │
-│                              CONTEXT BUILDING                   │
-│                                     │                           │
-│                                     ▼                           │
-│                               LLM REASONING                     │
-│                                     │                           │
-│                                     ▼                           │
-│                           EVALUATION / QA                       │
-│                                     │                           │
-│                                     ▼                           │
-│                              APPLICATION                        │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                         AI ENGINEERING LAB                                  │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│  DATA → CLEANING → EMBEDDINGS → VECTOR SPACE → RETRIEVAL → CONTEXT         │
+│                                                               │              │
+│                                                               ▼              │
+│                     LLM REASONING → EVALUATION / QA → APPLICATION           │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
 </pre>
 
 </div>
@@ -252,21 +232,10 @@ The portfolio acts as the presentation layer for projects, experiments, technica
 <div align="center">
 
 <pre align="center">
-01  Understand
-       ↓
-02  Decompose
-       ↓
-03  Prototype
-       ↓
-04  Retrieve / Reason
-       ↓
-05  Validate
-       ↓
-06  Engineer
-       ↓
-07  Test
-       ↓
-08  Ship
+01 Understand  →  02 Decompose  →  03 Prototype  →  04 Retrieve / Reason
+                                                            │
+                                                            ▼
+08 Ship        ←  07 Test      ←  06 Engineer   ←  05 Validate
 </pre>
 
 </div>
@@ -303,23 +272,9 @@ Live contribution activity — automatically generated from my GitHub history.
 
 <div align="center">
 
-<table>
-<tr>
+<img src="https://github-readme-stats.vercel.app/api?username=Frostmark1618&show_icons=true&hide_border=false&border_color=1E293B&border_radius=12&bg_color=0B1120&title_color=67E8F9&text_color=CBD5E1&icon_color=22D3EE&rank_icon=github&cache_seconds=21600" width="48%" alt="GitHub statistics"/>
 
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Frostmark1618&show_icons=true&hide_border=true&bg_color=0B1120&title_color=67E8F9&text_color=CBD5E1&icon_color=22D3EE&rank_icon=github" width="100%" alt="GitHub statistics"/>
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Frostmark1618&hide_border=true&background=0B1120&ring=22D3EE&fire=67E8F9&currStreakNum=67E8F9&sideNums=67E8F9&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=64748B&timezone=Asia%2FKolkata" width="100%" alt="GitHub streak statistics"/>
-
-</td>
-
-</tr>
-</table>
+<img src="https://streak-stats.demolab.com/?user=Frostmark1618&hide_border=false&border=1E293B&border_radius=12&background=0B1120&ring=22D3EE&fire=67E8F9&currStreakNum=67E8F9&sideNums=67E8F9&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=64748B&timezone=Asia%2FKolkata" width="48%" alt="GitHub streak statistics"/>
 
 </div>
 
@@ -330,7 +285,7 @@ Live contribution activity — automatically generated from my GitHub history.
 <div align="center">
 
 <a href="https://github.com/Frostmark1618/LeetCode">
-<img src="https://img.shields.io/badge/DSA%20Practice-LeetCode%20Solutions-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode solutions repository"/>
+<img src="https://img.shields.io/badge/DSA%20PRACTICE-LeetCode%20Solutions-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode solutions repository"/>
 </a>
 
 <br><br>
@@ -346,7 +301,7 @@ An evolving collection of LeetCode solutions, organized by problem and topic.
 <br><br>
 
 <a href="https://github.com/Frostmark1618/LeetCode">
-<img src="https://img.shields.io/badge/Explore%20Solutions-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Explore LeetCode solutions"/>
+<img src="https://img.shields.io/badge/EXPLORE%20SOLUTIONS-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Explore LeetCode solutions"/>
 </a>
 
 </div>
@@ -408,6 +363,6 @@ An evolving collection of LeetCode solutions, organized by problem and topic.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,30:172554,55:312E81,80:155E75,100:020617&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,30:172554,55:312E81,80:155E75,100:020617&height=120&section=footer&animation=fadeIn" width="100%" alt="Animated footer"/>
 
 </div>
