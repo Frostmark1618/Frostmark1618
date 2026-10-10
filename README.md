@@ -578,45 +578,7 @@ GitHub activity is shown dynamically from the profile's public repository activi
 
 ---
 
-# 🧩 DSA Practice
 
-<div align="center">
-
-### Live LeetCode Statistics
-
-<img
-src="https://frostmark-dynamic-leetcode-card.vercel.app/api/card"
-width="100%"
-alt="RIDDHI_VISION live LeetCode statistics"
-/>
-
-<br><br>
-
-<a href="https://leetcode.com/u/RIDDHI_VISION/">
-<img src="https://img.shields.io/badge/OPEN%20LEETCODE%20PROFILE-2ea44f?style=for-the-badge&logo=leetcode&logoColor=white" alt="Open LeetCode profile"/>
-</a>
-
-</div>
-
----
-
-### 🧠 LeetCode → Algorithm Lab
-
-My ongoing space for **data structures, algorithms and problem solving**.
-
-`Arrays` · `Strings` · `Linked Lists` · `Trees` · `Graphs`
-
-`Hashing` · `Sorting` · `Searching` · `Dynamic Programming`
-
-**Practice loop:** `Understand → Dry Run → Implement → Test → Optimize → Document`
-
-<div align="center">
-
-<a href="https://github.com/Frostmark1618/LeetCode">
-<img src="https://img.shields.io/badge/EXPLORE%20ALGORITHM%20LAB-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Explore Algorithm Lab repository"/>
-</a>
-
-</div>
 
 
 # 🛰️ Connect With Me
