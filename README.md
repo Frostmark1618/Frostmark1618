@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0F172A,55:172554,78:312E81,100:0B1120&height=260&section=header&text=RIDDHIMAN%20ADAK&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20RAG%20%E2%80%A2%20SOFTWARE%20ENGINEERING&descAlignY=65&descSize=15&descColor=67E8F9" width="100%" alt="Riddhiman Adak — AI/ML, LLM systems, RAG and software engineering"/>
 
@@ -43,7 +43,6 @@
 
 <table>
 <tr>
-
 <td width="68%" valign="middle">
 
 I'm **Riddhiman Adak**, a B.Tech CSE student specializing in **Artificial Intelligence & Machine Learning**.
@@ -73,7 +72,6 @@ My goal is simple:
 > **Turn intelligent models into understandable, evidence-aware and usable software.**
 
 </td>
-
 <td width="32%" align="center" valign="middle">
 
 <img src="https://github.com/Frostmark1618.png?size=420" width="190" alt="Riddhiman Adak GitHub profile image"/>
@@ -83,7 +81,6 @@ My goal is simple:
 <img src="https://img.shields.io/badge/AI%20%2F%20ML-06B6D4?style=for-the-badge" alt="AI and ML"/>
 
 </td>
-
 </tr>
 </table>
 
@@ -95,47 +92,35 @@ My goal is simple:
 
 <table>
 <tr>
-
 <td align="center" width="16%">
 <b>MODEL</b><br>
 <sub>Learn</sub>
 </td>
-
 <td align="center">→</td>
-
 <td align="center" width="16%">
 <b>KNOWLEDGE</b><br>
 <sub>Ground</sub>
 </td>
-
 <td align="center">→</td>
-
 <td align="center" width="16%">
 <b>RETRIEVAL</b><br>
 <sub>Find</sub>
 </td>
-
 <td align="center">→</td>
-
 <td align="center" width="16%">
 <b>LLM</b><br>
 <sub>Reason</sub>
 </td>
-
 <td align="center">→</td>
-
 <td align="center" width="16%">
 <b>SYSTEM</b><br>
 <sub>Engineer</sub>
 </td>
-
 <td align="center">→</td>
-
 <td align="center" width="16%">
 <b>PRODUCT</b><br>
 <sub>Deliver</sub>
 </td>
-
 </tr>
 </table>
 
@@ -238,7 +223,6 @@ The interesting part is not only the model — it is everything required to make
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🔬 ResearchAI
@@ -266,7 +250,6 @@ It explores research-paper ingestion, semantically relevant retrieval, document 
 </a>
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🧩 LeetCode → Algorithm Lab
@@ -287,7 +270,6 @@ A continuously growing collection of solutions organized around data structures,
 </a>
 
 </td>
-
 </tr>
 </table>
 
@@ -301,7 +283,6 @@ A continuously growing collection of solutions organized around data structures,
 
 <table>
 <tr>
-
 <td width="68%" valign="middle">
 
 ### RIDDHI-S-VISION
@@ -311,7 +292,6 @@ Personal developer portfolio and web presence.
 The portfolio is the presentation layer for projects, experiments, technical work and future engineering case studies.
 
 </td>
-
 <td width="32%" align="center" valign="middle">
 
 <a href="https://riddhi-s-vision.vercel.app">
@@ -319,7 +299,6 @@ The portfolio is the presentation layer for projects, experiments, technical wor
 </a>
 
 </td>
-
 </tr>
 </table>
 
@@ -333,7 +312,6 @@ The portfolio is the presentation layer for projects, experiments, technical wor
 
 <table>
 <tr>
-
 <td width="25%" valign="top">
 
 ### 🧠 AI Systems
@@ -344,7 +322,6 @@ The portfolio is the presentation layer for projects, experiments, technical wor
 - Local LLMs
 
 </td>
-
 <td width="25%" valign="top">
 
 ### 🔎 Retrieval
@@ -355,7 +332,6 @@ The portfolio is the presentation layer for projects, experiments, technical wor
 - Context engineering
 
 </td>
-
 <td width="25%" valign="top">
 
 ### 🤖 Agents
@@ -366,7 +342,6 @@ The portfolio is the presentation layer for projects, experiments, technical wor
 - Multi-step reasoning
 
 </td>
-
 <td width="25%" valign="top">
 
 ### ⚙️ Engineering
@@ -377,7 +352,6 @@ The portfolio is the presentation layer for projects, experiments, technical wor
 - Deployment
 
 </td>
-
 </tr>
 </table>
 
@@ -391,7 +365,6 @@ The portfolio is the presentation layer for projects, experiments, technical wor
 
 <table>
 <tr>
-
 <td align="center" width="16%">
 
 **DATA**
@@ -399,9 +372,7 @@ The portfolio is the presentation layer for projects, experiments, technical wor
 <sub>Raw information</sub>
 
 </td>
-
 <td align="center">→</td>
-
 <td align="center" width="16%">
 
 **EMBEDDINGS**
@@ -409,9 +380,7 @@ The portfolio is the presentation layer for projects, experiments, technical wor
 <sub>Representation</sub>
 
 </td>
-
 <td align="center">→</td>
-
 <td align="center" width="16%">
 
 **VECTOR SPACE**
@@ -419,9 +388,7 @@ The portfolio is the presentation layer for projects, experiments, technical wor
 <sub>Semantic index</sub>
 
 </td>
-
 <td align="center">→</td>
-
 <td align="center" width="16%">
 
 **RETRIEVAL**
@@ -429,9 +396,7 @@ The portfolio is the presentation layer for projects, experiments, technical wor
 <sub>Evidence</sub>
 
 </td>
-
 <td align="center">→</td>
-
 <td align="center" width="16%">
 
 **LLM**
@@ -439,9 +404,7 @@ The portfolio is the presentation layer for projects, experiments, technical wor
 <sub>Reasoning</sub>
 
 </td>
-
 <td align="center">→</td>
-
 <td align="center" width="16%">
 
 **PRODUCT**
@@ -449,7 +412,6 @@ The portfolio is the presentation layer for projects, experiments, technical wor
 <sub>Application</sub>
 
 </td>
-
 </tr>
 </table>
 
@@ -498,61 +460,45 @@ The portfolio is the presentation layer for projects, experiments, technical wor
 
 <table>
 <tr>
-
 <td align="center" width="12%">
 <b>01</b><br>
 Understand
 </td>
-
 <td align="center">→</td>
-
 <td align="center" width="12%">
 <b>02</b><br>
 Decompose
 </td>
-
 <td align="center">→</td>
-
 <td align="center" width="12%">
 <b>03</b><br>
 Prototype
 </td>
-
 <td align="center">→</td>
-
 <td align="center" width="12%">
 <b>04</b><br>
 Retrieve / Reason
 </td>
-
 <td align="center">→</td>
-
 <td align="center" width="12%">
 <b>05</b><br>
 Validate
 </td>
-
 <td align="center">→</td>
-
 <td align="center" width="12%">
 <b>06</b><br>
 Engineer
 </td>
-
 <td align="center">→</td>
-
 <td align="center" width="12%">
 <b>07</b><br>
 Test
 </td>
-
 <td align="center">→</td>
-
 <td align="center" width="12%">
 <b>08</b><br>
 Ship
 </td>
-
 </tr>
 </table>
 
@@ -602,19 +548,16 @@ A live 3D visualization of GitHub contribution activity.
 
 <table>
 <tr>
-
 <td width="50%" align="center" valign="middle">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Frostmark1618&show_icons=true&hide_border=false&border_color=1E293B&border_radius=14&bg_color=0B1120&title_color=67E8F9&text_color=CBD5E1&icon_color=22D3EE&rank_icon=github&cache_seconds=21600" width="96%" alt="GitHub statistics for Frostmark1618"/>
 
 </td>
-
 <td width="50%" align="center" valign="middle">
 
 <img src="https://streak-stats.demolab.com/?user=Frostmark1618&hide_border=false&border=1E293B&border_radius=14&background=0B1120&ring=22D3EE&fire=67E8F9&currStreakNum=67E8F9&sideNums=67E8F9&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=64748B&timezone=Asia%2FKolkata" width="96%" alt="GitHub contribution streak statistics for Frostmark1618"/>
 
 </td>
-
 </tr>
 </table>
 
@@ -632,13 +575,31 @@ GitHub activity is shown dynamically from the profile's public repository activi
 
 ---
 
----
-
----
-
 # 🧩 DSA Practice
 
 <div align="center">
+
+### 📊 Live LeetCode Statistics
+
+<img
+src="https://frostmark-dynamic-leetcode-card.vercel.app/api/card"
+width="100%"
+alt="RIDDHI_VISION live LeetCode problem-solving statistics"
+/>
+
+<br>
+
+<sub>
+Live problem-solving statistics, difficulty breakdown, streaks and submission activity.
+</sub>
+
+<br><br>
+
+<a href="https://leetcode.com/u/RIDDHI_VISION/">
+<img src="https://img.shields.io/badge/OPEN%20LEETCODE%20PROFILE-06B6D4?style=for-the-badge&logo=leetcode&logoColor=white" alt="Open RIDDHI_VISION LeetCode profile"/>
+</a>
+
+<br><br>
 
 <a href="https://github.com/Frostmark1618/LeetCode">
 
@@ -650,11 +611,12 @@ alt="Premium DSA Algorithm Lab dashboard showing data structures, algorithms and
 
 </a>
 
-<br><br>
+</div>
+
+<br>
 
 <table>
 <tr>
-
 <td width="68%" valign="middle">
 
 ### 🧠 LeetCode → Algorithm Lab
@@ -674,7 +636,6 @@ The focus is not only solving individual questions, but building reusable unders
 `Understand → Dry Run → Implement → Test → Optimize → Document`
 
 </td>
-
 <td width="32%" align="center" valign="middle">
 
 <a href="https://github.com/Frostmark1618/LeetCode">
@@ -688,11 +649,10 @@ Patterns • Complexity • Reusable Reasoning
 </sub>
 
 </td>
-
 </tr>
 </table>
 
-</div>
+---
 
 # 🛰️ Connect With Me
 
@@ -734,7 +694,6 @@ Open to learning, building, collaborating and turning interesting ideas into wor
 
 <table>
 <tr>
-
 <td align="center">
 
 ### Build systems, not just demos.
@@ -765,7 +724,6 @@ Make software usable.
 </sub>
 
 </td>
-
 </tr>
 </table>
 
