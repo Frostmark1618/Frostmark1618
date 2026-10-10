@@ -1,10 +1,10 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0F172A,55:172554,78:312E81,100:0B1120&height=260&section=header&text=RIDDHIMAN%20ADAK&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20RAG%20%E2%80%A2%20SOFTWARE%20ENGINEERING&descAlignY=65&descSize=15&descColor=67E8F9" width="100%" alt="Riddhiman Adak — AI/ML, LLM systems, RAG and software engineering"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0F172A,55:172554,78:312E81,100:0B1120&height=260&section=header&text=RIDDHIMAN%20ADAK&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20RAG%20%E2%80%A2%20SOFTWARE%20ENGINEERING&descAlignY=65&descSize=15&descColor=3FB950" width="100%" alt="Riddhiman Adak — AI/ML, LLM systems, RAG and software engineering"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=850&color=67E8F9&center=true&vCenter=true&width=820&lines=Building+AI+systems%2C+not+just+AI+demos.;Retrieval+%E2%86%92+Reasoning+%E2%86%92+Systems+%E2%86%92+Products.;Exploring+LLMs%2C+RAG%2C+Agents+%26+ML+Engineering.;Turning+research+ideas+into+working+software." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=850&color=3FB950&center=true&vCenter=true&width=820&lines=Building+AI+systems%2C+not+just+AI+demos.;Retrieval+%E2%86%92+Reasoning+%E2%86%92+Systems+%E2%86%92+Products.;Exploring+LLMs%2C+RAG%2C+Agents+%26+ML+Engineering.;Turning+research+ideas+into+working+software." alt="Animated introduction"/>
 
 <br><br>
 
@@ -33,7 +33,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Frostmark1618&style=flat-square&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Frostmark1618&style=flat-square&color=238636&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -246,7 +246,7 @@ It explores research-paper ingestion, semantically relevant retrieval, document 
 <br>
 
 <a href="https://github.com/Frostmark1618/ResearchAI">
-<img src="https://img.shields.io/badge/OPEN%20REPOSITORY-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Open ResearchAI repository"/>
+<img src="https://img.shields.io/badge/OPEN%20REPOSITORY-238636?style=for-the-badge&logo=github&logoColor=white" alt="Open ResearchAI repository"/>
 </a>
 
 </td>
@@ -266,7 +266,7 @@ A continuously growing collection of solutions organized around data structures,
 <br>
 
 <a href="https://github.com/Frostmark1618/LeetCode">
-<img src="https://img.shields.io/badge/OPEN%20REPOSITORY-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Open LeetCode repository"/>
+<img src="https://img.shields.io/badge/OPEN%20REPOSITORY-238636?style=for-the-badge&logo=github&logoColor=white" alt="Open LeetCode repository"/>
 </a>
 
 </td>
@@ -550,12 +550,12 @@ A live 3D visualization of GitHub contribution activity.
 <tr>
 <td width="50%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Frostmark1618&show_icons=true&hide_border=false&border_color=1E293B&border_radius=14&bg_color=0B1120&title_color=67E8F9&text_color=CBD5E1&icon_color=22D3EE&rank_icon=github&cache_seconds=21600" width="96%" alt="GitHub statistics for Frostmark1618"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Frostmark1618&show_icons=true&hide_border=false&border_color=1E293B&border_radius=14&bg_color=0B1120&title_color=3FB950&text_color=C9D1D9&icon_color=3FB950&rank_icon=github&cache_seconds=21600" width="96%" alt="GitHub statistics for Frostmark1618"/>
 
 </td>
 <td width="50%" align="center" valign="middle">
 
-<img src="https://streak-stats.demolab.com/?user=Frostmark1618&hide_border=false&border=1E293B&border_radius=14&background=0B1120&ring=22D3EE&fire=67E8F9&currStreakNum=67E8F9&sideNums=67E8F9&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=64748B&timezone=Asia%2FKolkata" width="96%" alt="GitHub contribution streak statistics for Frostmark1618"/>
+<img src="https://streak-stats.demolab.com/?user=Frostmark1618&hide_border=false&border=1E293B&border_radius=14&background=0B1120&ring=3FB950&fire=3FB950&currStreakNum=3FB950&sideNums=3FB950&currStreakLabel=3FB950&sideLabels=C9D1D9&dates=8B949E&timezone=Asia%2FKolkata" width="96%" alt="GitHub contribution streak statistics for Frostmark1618"/>
 
 </td>
 </tr>
@@ -577,8 +577,6 @@ GitHub activity is shown dynamically from the profile's public repository activi
 
 
 ---
-
-
 
 
 # 🛰️ Connect With Me
