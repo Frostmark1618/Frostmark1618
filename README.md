@@ -575,84 +575,53 @@ GitHub activity is shown dynamically from the profile's public repository activi
 
 ---
 
+
+---
+
 # 🧩 DSA Practice
 
 <div align="center">
 
-### 📊 Live LeetCode Statistics
+### LeetCode Progress
 
 <img
 src="https://frostmark-dynamic-leetcode-card.vercel.app/api/card"
 width="100%"
-alt="RIDDHI_VISION live LeetCode problem-solving statistics"
+alt="RIDDHI_VISION live LeetCode statistics"
 />
 
 <br>
 
-<sub>
-Live problem-solving statistics, difficulty breakdown, streaks and submission activity.
-</sub>
-
-<br><br>
-
 <a href="https://leetcode.com/u/RIDDHI_VISION/">
-<img src="https://img.shields.io/badge/OPEN%20LEETCODE%20PROFILE-06B6D4?style=for-the-badge&logo=leetcode&logoColor=white" alt="Open RIDDHI_VISION LeetCode profile"/>
+<img src="https://img.shields.io/badge/LeetCode-View%20Profile-2ea44f?style=for-the-badge&logo=leetcode&logoColor=white" alt="View LeetCode profile"/>
 </a>
 
 <br><br>
-
-<a href="https://github.com/Frostmark1618/LeetCode">
-
-<img
-src="./assets/dsa-algorithm-lab-premium.svg"
-width="100%"
-alt="Premium DSA Algorithm Lab dashboard showing data structures, algorithms and problem-solving workflow"
-/>
-
-</a>
 
 </div>
 
-<br>
+### 🧠 Algorithm Lab
 
-<table>
-<tr>
-<td width="68%" valign="middle">
+My ongoing practice in **Data Structures and Algorithms**, focused on understanding patterns, writing solutions, and improving problem-solving skills.
 
-### 🧠 LeetCode → Algorithm Lab
-
-This repository is my ongoing space for **data structures, algorithms and problem solving**.
-
-The focus is not only solving individual questions, but building reusable understanding around:
+**Topics**
 
 `Arrays` · `Strings` · `Linked Lists` · `Trees` · `Graphs`
 
 `Hashing` · `Sorting` · `Searching` · `Dynamic Programming`
 
-<br>
+**Practice workflow**
 
-**Practice loop**
+`Understand → Dry Run → Implement → Test → Optimize`
 
-`Understand → Dry Run → Implement → Test → Optimize → Document`
-
-</td>
-<td width="32%" align="center" valign="middle">
+<div align="center">
 
 <a href="https://github.com/Frostmark1618/LeetCode">
-<img src="https://img.shields.io/badge/EXPLORE%20ALGORITHM%20LAB-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Explore Algorithm Lab repository"/>
+<img src="https://img.shields.io/badge/EXPLORE%20ALGORITHM%20LAB-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Explore Algorithm Lab"/>
 </a>
 
-<br><br>
+</div>
 
-<sub>
-Patterns • Complexity • Reusable Reasoning
-</sub>
-
-</td>
-</tr>
-</table>
-
----
 
 # 🛰️ Connect With Me
 
